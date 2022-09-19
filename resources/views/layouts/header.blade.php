@@ -64,8 +64,7 @@
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-invoice-list.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-chat-list.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-email.css">
-
-    <!-- END: Page CSS-->
+ <!-- END: Page CSS-->
 
     <!-- BEGIN: Custom CSS-->
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/assets/css/style.css">
