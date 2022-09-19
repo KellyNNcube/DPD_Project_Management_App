@@ -9,9 +9,9 @@
     <meta name="description" content="Vuexy admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities.">
     <meta name="keywords" content="admin template, Vuexy admin template, dashboard template, flat admin template, responsive admin template, web app">
     <meta name="author" content="PIXINVENT">
-    <title>Login Page - Vuexy - Bootstrap HTML admin template</title>
+    <title>Login Page -Devestork Platform For Development</title>
     <link rel="apple-touch-icon" href="{{ ENV('APP_URL') }}/app-assets/images/ico/apple-icon-120.png">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ ENV('APP_URL') }}/app-assets/images/ico/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ ENV('APP_URL') }}/app-assets/images/ico/logo.ico">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500;1,600" rel="stylesheet">
 
     <!-- BEGIN: Vendor CSS-->
@@ -83,7 +83,7 @@
                                     <h2 class="brand-text text-primary ms-1">Vuexy</h2>
                                 </a>
 
-                                <h4 class="card-title mb-1">Welcome to Vuexy! 👋</h4>
+                                <h4 class="card-title mb-1">Welcome to DPD! 👋</h4>
                                 <p class="card-text mb-2">Please sign-in to your account and start the adventure</p>
 
                                 <!-- Session Status -->
