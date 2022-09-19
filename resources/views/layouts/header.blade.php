@@ -33,6 +33,8 @@
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/vendors/css/animate/animate.min.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/vendors/css/extensions/sweetalert2.min.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/vendors/css/charts/apexcharts.css">
+    <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/vendors/css/jkanban/jkanban.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/vendors/css/editors/quill/quill.bubble.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Inconsolata&amp;family=Roboto+Slab&amp;family=Slabo+27px&amp;family=Sofia&amp;family=Ubuntu+Mono&amp;display=swap">
 
@@ -59,11 +61,11 @@
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-todo.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-calendar.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/plugins/extensions/ext-component-sweet-alerts.css">
-    <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/plugins/forms/form-validation.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-invoice.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-invoice-list.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-chat-list.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-email.css">
+    <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-kanban.css">
  <!-- END: Page CSS-->
 
     <!-- BEGIN: Custom CSS-->
