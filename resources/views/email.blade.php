@@ -862,6 +862,7 @@
                                                         <option selected>Arial</option>
                                                         <option value="sofia">Lato</option>
                                                         <option value="slabo">gotham</option>
+                                                        <option value="slabo">conia script</option>
 
                                                     </select>
                                                 </span>
