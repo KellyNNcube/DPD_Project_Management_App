@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/dashboard', function () {
-    return view('test');
+    return view('try');
 })->middleware(['auth'])->name('dashboard');
 
 Route::get('/app-chat', function () {

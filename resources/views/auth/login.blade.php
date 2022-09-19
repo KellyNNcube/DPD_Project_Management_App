@@ -80,7 +80,7 @@
                                             </g>
                                         </g>
                                     </svg>
-                                    <h2 class="brand-text text-primary ms-1">Vuexy</h2>
+                                    <h2 class="brand-text text-primary ms-1">DPD</h2>
                                 </a>
 
                                 <h4 class="card-title mb-1">Welcome to DPD! 👋</h4>
