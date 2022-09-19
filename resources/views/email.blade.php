@@ -859,12 +859,10 @@
                                             <div class="compose-editor-toolbar">
                                                 <span class="ql-formats me-0">
                                                     <select class="ql-font">
-                                                        <option selected>Kelly Nozipho</option>
-                                                        <option value="sofia">Sofia Pro</option>
-                                                        <option value="slabo">Slabo 27px</option>
-                                                        <option value="roboto">Roboto Slab</option>
-                                                        <option value="inconsolata">Inconsolata</option>
-                                                        <option value="ubuntu">Ubuntu Mono</option>
+                                                        <option selected>Arial</option>
+                                                        <option value="sofia">Lato</option>
+                                                        <option value="slabo">gotham</option>
+
                                                     </select>
                                                 </span>
                                                 <span class="ql-formats me-0">
