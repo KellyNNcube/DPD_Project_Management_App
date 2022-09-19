@@ -859,7 +859,7 @@
                                             <div class="compose-editor-toolbar">
                                                 <span class="ql-formats me-0">
                                                     <select class="ql-font">
-                                                        <option selected>Sailec Light</option>
+                                                        <option selected>Kelly Nozipho</option>
                                                         <option value="sofia">Sofia Pro</option>
                                                         <option value="slabo">Slabo 27px</option>
                                                         <option value="roboto">Roboto Slab</option>
