@@ -31,7 +31,6 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/charts/apexcharts.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/buttons.bootstrap5.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js"></script>
-
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/jkanban/jkanban.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/katex.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/highlight.min.js"></script>
