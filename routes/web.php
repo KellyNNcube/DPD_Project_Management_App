@@ -73,15 +73,15 @@ Route::get('/try', function () {
     return view('try');
 });
 
-<<<<<<< HEAD
+
 Route::get('/app-access-roles', function () {
     return view('app-access-roles');
 });
 
-=======
+
 Route::get('/app-kanban', function () {
     return view('kanban');
 });
->>>>>>> 6c0bfd32eec9a18384be5aa8cca8850e589b5183
+
 
 require __DIR__ . '/auth.php';
