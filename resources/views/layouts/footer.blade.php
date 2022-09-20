@@ -32,6 +32,14 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/buttons.bootstrap5.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js"></script>
 
+=======
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/jkanban/jkanban.min.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/katex.min.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/highlight.min.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/quill.min.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/extensions/dragula.min.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/extensions/toastr.min.js"></script>
+
 <!-- END: Page Vendor JS-->
 
 <!-- BEGIN: Theme JS-->
@@ -53,50 +61,13 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-invoice.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/cards/card-advance.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-email.js"></script>
+<<<<<<< HEAD
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/modal-add-role.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-access-roles.js"></script>
+=======
+<script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-kanban.js"></script>
+>>>>>>> 6c0bfd32eec9a18384be5aa8cca8850e589b5183
 <!-- END: Page JS-->
-
-<!-- BEGIN: Vendor JS-->
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/vendors.min.js"></script>
-<!-- BEGIN Vendor JS-->
-
-<!-- BEGIN: Page Vendor JS-->
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/jquery/jquery.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/socket.io/socket.io.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/clipboard/clipboard.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/katex.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/highlight.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/quill.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/forms/select/select2.full.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/pickers/flatpickr/flatpickr.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/extensions/dragula.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/forms/validation/jquery.validate.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/extensions/toastr.min.js"></script>
-<!-- END: Page Vendor JS-->
-
-<!-- BEGIN: Theme JS-->
-<script src="{{ ENV('APP_URL') }}/app-assets/js/core/app-menu.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/js/core/app.js"></script>
-<!-- END: Theme JS-->
-
-<!-- BEGIN: Vendor JS-->
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/vendors.min.js"></script>
-<!-- BEGIN Vendor JS-->
-
-<!-- BEGIN: Page Vendor JS-->
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/calendar/fullcalendar.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/extensions/moment.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/forms/select/select2.full.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/forms/validation/jquery.validate.min.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/pickers/flatpickr/flatpickr.min.js"></script>
-<!-- END: Page Vendor JS-->
-
-<!-- BEGIN: Theme JS-->
-<script src="{{ ENV('APP_URL') }}/app-assets/js/core/app-menu.js"></script>
-<script src="{{ ENV('APP_URL') }}/app-assets/js/core/app.js"></script>
-<!-- END: Theme JS-->
--->
 
 
 
