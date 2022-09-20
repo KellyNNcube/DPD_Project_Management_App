@@ -178,6 +178,9 @@
                 </li>
                 <li class="nav-item"><a class="d-flex align-items-center" href="/calendar"><i data-feather="calendar"></i><span class="menu-title text-truncate" data-i18n="Calendar">Calendar</span></a>
                 </li>
+                </li>
+                <li class="nav-item"><a class="d-flex align-items-center" href="/app-access-roles"><i data-feather="calendar"></i><span class="menu-title text-truncate" data-i18n="Calendar">Roles</span></a>
+                </li>
                 <li class=" nav-item"><a class="d-flex align-items-center" href="/app-kanban"><i data-feather="grid"></i><span class="menu-title text-truncate" data-i18n="Kanban">Kanban</span></a>
                 </li>
                 <li class=" nav-item"><a class="d-flex align-items-center" href="/invoice-add"><i data-feather="file-text"></i><span class="menu-title text-truncate" data-i18n="Invoice">Invoice</span></a>
