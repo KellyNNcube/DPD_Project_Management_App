@@ -73,5 +73,9 @@ Route::get('/try', function () {
     return view('try');
 });
 
+Route::get('/app-access-roles', function () {
+    return view('app-access-roles');
+});
+
 
 require __DIR__ . '/auth.php';

@@ -29,6 +29,8 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-invoice-list.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/charts/apexcharts.min.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/buttons.bootstrap5.min.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js"></script>
 
 <!-- END: Page Vendor JS-->
 
@@ -51,6 +53,8 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-invoice.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/cards/card-advance.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-email.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/modal-add-role.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-access-roles.js"></script>
 <!-- END: Page JS-->
 
 <!-- BEGIN: Vendor JS-->
