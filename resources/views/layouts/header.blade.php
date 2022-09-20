@@ -66,7 +66,7 @@
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-chat-list.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-email.css">
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/app-assets/css/pages/app-kanban.css">
- <!-- END: Page CSS-->
+    <!-- END: Page CSS-->
 
     <!-- BEGIN: Custom CSS-->
     <link rel="stylesheet" type="text/css" href="{{ ENV('APP_URL') }}/assets/css/style.css">
@@ -168,7 +168,7 @@
                 </li>
                 <li class=" navigation-header"><span data-i18n="Apps &amp; Pages">Apps &amp; Pages</span><i data-feather="more-horizontal"></i>
                 </li>
-                <li class=" nav-item"><a class="d-flex align-items-center" href="/project-creation"><i data-feather="check-square"></i><span class="menu-title text-truncate" data-i18n="Todo">Projects</span></a>
+                <li class=" nav-item"><a class="d-flex align-items-center" href="/project-creation"><i data-feather="plus-square"></i><span class="menu-title text-truncate" data-i18n="Todo">Projects</span></a>
                 </li>
                 <li class=" nav-item"><a class="d-flex align-items-center" href="/email"><i data-feather="mail"></i><span class="menu-title text-truncate" data-i18n="Email">Email</span></a>
                 </li>
@@ -179,7 +179,7 @@
                 <li class="nav-item"><a class="d-flex align-items-center" href="/calendar"><i data-feather="calendar"></i><span class="menu-title text-truncate" data-i18n="Calendar">Calendar</span></a>
                 </li>
                 </li>
-                <li class="nav-item"><a class="d-flex align-items-center" href="/app-access-roles"><i data-feather="calendar"></i><span class="menu-title text-truncate" data-i18n="Calendar">Roles</span></a>
+                <li class="nav-item"><a class="d-flex align-items-center" href="/app-access-roles"><i data-feather="shield"></i><span class="menu-title text-truncate" data-i18n="Calendar">Roles</span></a>
                 </li>
                 <li class=" nav-item"><a class="d-flex align-items-center" href="/app-kanban"><i data-feather="grid"></i><span class="menu-title text-truncate" data-i18n="Kanban">Kanban</span></a>
                 </li>

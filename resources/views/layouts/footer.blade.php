@@ -32,7 +32,6 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/buttons.bootstrap5.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js"></script>
 
-=======
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/jkanban/jkanban.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/katex.min.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/vendors/js/editors/quill/highlight.min.js"></script>
@@ -61,12 +60,10 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-invoice.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/cards/card-advance.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-email.js"></script>
-<<<<<<< HEAD
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/modal-add-role.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-access-roles.js"></script>
-=======
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-kanban.js"></script>
->>>>>>> 6c0bfd32eec9a18384be5aa8cca8850e589b5183
+
 <!-- END: Page JS-->
 
 
