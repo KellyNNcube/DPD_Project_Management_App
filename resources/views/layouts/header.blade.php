@@ -9,7 +9,7 @@
     <meta name="description" content="Vuexy admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities.">
     <meta name="keywords" content="admin template, Vuexy admin template, dashboard template, flat admin template, responsive admin template, web app">
     <meta name="author" content="PIXINVENT">
-    <title>DPD - Dervestork Platform For Development</title>
+    <title>DPD - Devstork Platform For Development</title>
     <link rel="apple-touch-icon" href="{{ url('/') }}/app-assets/images/ico/apple-icon-120.png">
     <link rel="shortcut icon" type="image/x-icon" href="{{ url('/') }}/app-assets/images/ico/logo.ico">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500;1,600" rel="stylesheet">
@@ -153,7 +153,8 @@
     <div class="main-menu menu-fixed menu-light menu-accordion menu-shadow" data-scroll-to-active="true">
         <div class="navbar-header">
             <ul class="nav navbar-nav flex-row">
-                <li class="nav-item me-auto"><a class="navbar-brand" href="{{ url('/') }}/app-assets/images/ico/logo.ico"><span class="brand-logo">
+                <li class="nav-item me-auto"><a class="navbar-brand" href="/"><span class="brand-logo">
+                <img src="{{ url('/') }}/app-assets/images/ico/logo.ico" class="img-fluid" alt="Brand logo">
                         </span>
                         <h2 class="brand-text">DPD</h2>
                     </a></li>
