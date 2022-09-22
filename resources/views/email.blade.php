@@ -142,7 +142,7 @@
                                 <li class="d-flex user-mail mail-read">
                                     <div class="mail-left pe-50">
                                         <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-20.jpg" alt="avatar img holder" />
+                                            <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar img holder" />
                                         </div>
                                         <div class="user-action">
                                             <div class="form-check">
@@ -155,8 +155,8 @@
                                     <div class="mail-body">
                                         <div class="mail-details">
                                             <div class="mail-items">
-                                                <h5 class="mb-25">Tonny Deep</h5>
-                                                <span class="text-truncate">🎯 Focused impactful open system </span>
+                                                <h5 class="mb-25">Admin</h5>
+                                                <span class="text-truncate">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</span>
                                             </div>
                                             <div class="mail-meta-item">
                                                 <span class="me-50 bullet bullet-success bullet-sm"></span>
@@ -165,388 +165,19 @@
                                         </div>
                                         <div class="mail-message">
                                             <p class="text-truncate mb-0">
-                                                Hey John, bah kivu decrete epanorthotic unnotched Argyroneta nonius veratrine preimaginary saunders
-                                                demidolmen Chaldaic allusiveness lorriker unworshipping ribaldish tableman hendiadys outwrest unendeavored
-                                                fulfillment scientifical Pianokoto CheloniaFreudian sperate unchary hyperneurotic phlogiston duodecahedron
-                                                unflown Paguridea catena disrelishable Stygian paleopsychology cantoris phosphoritic disconcord fruited
-                                                inblow somewhatly ilioperoneal forrard palfrey Satyrinae outfreeman melebiose
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-17.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck2" />
-                                                <label class="form-check-label" for="customCheck2"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Louis Welch</h5>
-                                                <span class="text-truncate">Thanks, Let's do it.🤩</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="me-50 bullet bullet-danger bullet-sm"></span>
-                                                <span class="mail-date">2:15 AM</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hi, Can we connect today? Cheesecake croissant jelly beans. Cake caramels pie chocolate. Muffin jujubes
-                                                dragée carrot cake candy icing bonbon. Danish caramels topping oat cake sweet roll liquorice tootsie roll
-                                                halvah.Chocolate bar jujubes jelly-o tart tiramisu croissant dragée cupcake jelly.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail mail-read">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck3" />
-                                                <label class="form-check-label" for="customCheck3"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Envato Market</h5>
-                                                <span class="text-truncate">👋 You have new comment...</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="me-50 bullet bullet-success bullet-sm"></span>
-                                                <span class="mail-date">2:15 AM</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hi There, Cotton candy jujubes ice cream candy. Oat cake jelly jelly brownie danish marzipan gummi bears.
-                                                Cupcake sweet bonbon tart. Sweet croissant jelly beans dragée chocolate cake gingerbread topping chocolate
-                                                bar lemon drops.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail mail-read">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck4" />
-                                                <label class="form-check-label" for="customCheck4"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Sarah Montgomery</h5>
-                                                <span class="text-truncate">Your New UI.</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="me-50 bullet bullet-warning bullet-sm"></span>
-                                                <span class="mail-date">Yesterday</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="text-truncate mb-0">
-                                                Hello, Everything looks good. Pastry marshmallow sugar plum. Gingerbread bonbon fruitcake gummi bears
-                                                wafer chocolate cake gummies tart ice cream. Danish topping biscuit dessert donut dessert. Chocolate
-                                                jelly-o topping marzipan fruitcake.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-3.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck5" />
-                                                <label class="form-check-label" for="customCheck5"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Ardis Balderson</h5>
-                                                <span class="text-truncate mb-0">Focused impactful open system</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <i data-feather="paperclip"></i>
-                                                <span class="mx-50 bullet bullet-warning bullet-sm"></span>
-                                                <span class="mail-date">15 July</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hey John, bah kivu decrete epanorthotic unnotched Argyroneta nonius veratrine preimaginary saunders
-                                                demidolmen Chaldaic allusiveness lorriker unworshipping ribaldish tableman hendiadys outwrest unendeavored
-                                                fulfillment scientifical Pianokoto CheloniaFreudian sperate unchary hyperneurotic phlogiston duodecahedron
-                                                unflown Paguridea catena disrelishable Stygian paleopsychology cantoris phosphoritic disconcord fruited
-                                                inblow somewhatly ilioperoneal forrard palfrey
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-8.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck6" />
-                                                <label class="form-check-label" for="customCheck6"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Modestine Spat</h5>
-                                                <span class="text-truncate mb-0">Profound systemic alliance 🎉</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="mx-50 bullet bullet-primary bullet-sm"></span>
-                                                <span class="mail-date">11 July</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hey John, Parthenopean logeion chipwood tonsilitic cockleshell substance Stilbum dismayed tape Alderamin
-                                                Phororhacos bridewain zoonomia lujaurite printline extraction weanedness charterless splitmouth bindoree
-                                                unfit philological Pythonissa scintillescentcinchonism sabbaton thyrocricoid dissuasively schematograph
-                                                immerse pristane stimulability unreligion uncomplemental uteritis nef bavenite Hachiman teleutosorus
-                                                anterolateral infirmate Nahani Hyla barile farthing
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail mail-read">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-11.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck7" />
-                                                <label class="form-check-label" for="customCheck7"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Eb Begg</h5>
-                                                <span class="text-truncate mb-0">Organized value-added model</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="mx-50 bullet bullet-success bullet-sm"></span>
-                                                <span class="mail-date">1 July</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hello Sir, Lituola restrengthen bathofloric manciple decaffeinize Debby aciliated eatage proscribe
-                                                prejurisdiction buttle quacky hyposecretion indemonstrableness schelling lymphopathy consumptivity
-                                                nonappointment filminess spumiform erotogenicity equestrianize boneflower interlardationallocate ponzite
-                                                cote guilder tuff strind blamefully cocaine monstrously apocalyptically sublanate cherubimical
-                                                oligoplasmia Miltonian hydrazyl unbeset statured Unami Cordeau strouthiocamelian geitjie
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail mail-read">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-10.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck8" />
-                                                <label class="form-check-label" for="customCheck8"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Waldemar Mannering</h5>
-                                                <span class="text-truncate mb-0">Quality-focused methodical flexibility</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="mx-50 bullet bullet-danger bullet-sm"></span>
-                                                <span class="mail-date">19 Jun</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hi John, wartproof ketoheptose incomplicate hyomental organal supermaterial monogene sophister nizamate
-                                                rightle multifilament phloroglucic overvehement boatloading derelictly probudgeting archantiquary
-                                                unknighted pallograph Volcanalia Jacobitiana ethyl neth Jugataenoumenalize irredential energeia
-                                                phlebotomist galp dactylitis unparticipated solepiece demure metarhyolite toboggan unpleased perilaryngeal
-                                                binoxalate rabbitry atomic duali dihexahedron Pseudogryphus boomboat obelisk
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail mail-read">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck9" />
-                                                <label class="form-check-label" for="customCheck9"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Louetta Esses</h5>
-                                                <span class="text-truncate mb-0">Company Report</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="mx-50 bullet bullet-primary bullet-sm"></span>
-                                                <span class="mail-date">2 Jun</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hi John,Biscuit lemon drops marshmallow. Cotton candy marshmallow bear claw. Dragée tiramisu cookie cotton
-                                                candy. Carrot cake sweet roll I love macaroon wafer jelly soufflé I love dragée. Jujubes jelly I love
-                                                carrot cake topping I love. Sweet candy I love
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-9.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck10" />
-                                                <label class="form-check-label" for="customCheck10"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Tressa Gass</h5>
-                                                <span class="text-truncate mb-0">Theme Update</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="mx-50 bullet bullet-primary bullet-sm"></span>
-                                                <span class="mail-date">29 May</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hello John,Chocolate bar chupa chups sweet roll chocolate muffin macaroon liquorice tart. Carrot cake
-                                                topping jelly-o cupcake sweet apple pie jelly I love. Chocolate cake I love dessert carrot cake tootsie
-                                                roll chocolate I love. Tootsie roll pie marzipan sesame snaps.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-20.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck11" />
-                                                <label class="form-check-label" for="customCheck11"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Tommy Sicilia</h5>
-                                                <span class="text-truncate mb-0">Thanks, Let's do it.</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="mx-50 bullet bullet-warning bullet-sm"></span>
-                                                <span class="mail-date">17 May</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hi John,Biscuit lemon drops marshmallow. Cotton candy marshmallow bear claw. Dragée tiramisu cookie cotton
-                                                candy. Carrot cake sweet roll I love macaroon wafer jelly soufflé I love dragée. Jujubes jelly I love
-                                                carrot cake topping I love. Sweet candy I love.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="d-flex user-mail mail-read">
-                                    <div class="mail-left pe-50">
-                                        <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-17.jpg" alt="Generic placeholder image" />
-                                        </div>
-                                        <div class="user-action">
-                                            <div class="form-check">
-                                                <input type="checkbox" class="form-check-input" id="customCheck12" />
-                                                <label class="form-check-label" for="customCheck12"></label>
-                                            </div>
-                                            <span class="email-favorite"><i data-feather="star"></i></span>
-                                        </div>
-                                    </div>
-                                    <div class="mail-body">
-                                        <div class="mail-details">
-                                            <div class="mail-items">
-                                                <h5 class="mb-25">Heather Howell</h5>
-                                                <span class="text-truncate mb-0">Thanks, Let's do it.</span>
-                                            </div>
-                                            <div class="mail-meta-item">
-                                                <span class="mx-50 bullet bullet-warning bullet-sm"></span>
-                                                <span class="mail-date">21 Mar</span>
-                                            </div>
-                                        </div>
-                                        <div class="mail-message">
-                                            <p class="mb-0 text-truncate">
-                                                Hi John,Biscuit lemon drops marshmallow. Marzipan carrot cake soufflé. Toffee tiramisu pudding cotton
-                                                candy powder jujubes pie. Topping danish sweet croissant liquorice lemon drops cake oat cake brownie.
-                                                Cupcake liquorice tart tootsie roll sugar plum chocolate bar oat cake sweet roll.
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                                             </p>
                                         </div>
                                     </div>
                                 </li>
                             </ul>
+
+
+
+
                             <div class="no-results">
                                 <h5>No Items Found</h5>
                             </div>
@@ -560,7 +191,7 @@
                         <div class="email-detail-header">
                             <div class="email-header-left d-flex align-items-center">
                                 <span class="go-back me-1"><i data-feather="chevron-left" class="font-medium-4"></i></span>
-                                <h4 class="email-subject mb-0">Focused open system 😃</h4>
+                                <h4 class="email-subject mb-0">Onboarding</h4>
                             </div>
                             <div class="email-header-right ms-2 ps-1">
                                 <ul class="list-inline m-0">
@@ -633,24 +264,24 @@
                                         <div class="card-header email-detail-head">
                                             <div class="user-details d-flex justify-content-between align-items-center flex-wrap">
                                                 <div class="avatar me-75">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-9.jpg" alt="avatar img holder" width="48" height="48" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar img holder" width="48" height="48" />
                                                 </div>
                                                 <div class="mail-items">
-                                                    <h5 class="mb-0">Carlos Williamson</h5>
+                                                    <h5 class="mb-0">Okocha</h5>
                                                     <div class="email-info-dropup dropdown">
                                                         <span role="button" class="dropdown-toggle font-small-3 text-muted" id="card_top01" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                            carlos@gmail.com
+                                                            dpdonline.ng
                                                         </span>
                                                         <div class="dropdown-menu" aria-labelledby="card_top01">
                                                             <table class="table table-sm table-borderless">
                                                                 <tbody>
                                                                     <tr>
                                                                         <td class="text-end">From:</td>
-                                                                        <td>carlos@gmail.com</td>
+                                                                        <td>atarifix.ng@gmail.com</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td class="text-end">To:</td>
-                                                                        <td>johndoe@ow.ly</td>
+                                                                        <td>atarifix.ng@gmail.com</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td class="text-end">Date:</td>
@@ -678,11 +309,9 @@
                                         </div>
                                         <div class="card-body mail-message-wrapper pt-2">
                                             <div class="mail-message">
-                                                <p class="card-text">Hey John,</p>
+                                                <p class="card-text">Hey,</p>
                                                 <p class="card-text">
-                                                    bah kivu decrete epanorthotic unnotched Argyroneta nonius veratrine preimaginary saunders demidolmen
-                                                    Chaldaic allusiveness lorriker unworshipping ribaldish tableman hendiadys outwrest unendeavored
-                                                    fulfillment scientifical Pianokoto Chelonia
+                                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                                                 </p>
                                             </div>
                                         </div>
@@ -695,24 +324,24 @@
                                         <div class="card-header email-detail-head">
                                             <div class="user-details d-flex justify-content-between align-items-center flex-wrap">
                                                 <div class="avatar me-75">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-18.jpg" alt="avatar img holder" width="48" height="48" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar img holder" width="48" height="48" />
                                                 </div>
                                                 <div class="mail-items">
-                                                    <h5 class="mb-0">Ardis Balderson</h5>
+                                                    <h5 class="mb-0">Atari</h5>
                                                     <div class="email-info-dropup dropdown">
                                                         <span role="button" class="dropdown-toggle font-small-3 text-muted" id="dropdownMenuButton200" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                            abaldersong@utexas.edu
+                                                            atarifix.ng@gmail.com
                                                         </span>
                                                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton200">
                                                             <table class="table table-sm table-borderless">
                                                                 <tbody>
                                                                     <tr>
                                                                         <td class="text-end">From:</td>
-                                                                        <td>abaldersong@utexas.edu</td>
+                                                                        <td>admin@dpdonline.ng</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td class="text-end">To:</td>
-                                                                        <td>johndoe@ow.ly</td>
+                                                                        <td>admin@dpdonline.ng</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td class="text-end">Date:</td>
@@ -740,16 +369,12 @@
                                         </div>
                                         <div class="card-body mail-message-wrapper pt-2">
                                             <div class="mail-message">
-                                                <p class="card-text">Hey John,</p>
+                                                <p class="card-text">Hello</p>
                                                 <p class="card-text">
-                                                    bah kivu decrete epanorthotic unnotched Argyroneta nonius veratrine preimaginary saunders demidolmen
-                                                    Chaldaic allusiveness lorriker unworshipping ribaldish tableman hendiadys outwrest unendeavored
-                                                    fulfillment scientifical Pianokoto Chelonia
+                                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                                                 </p>
                                                 <p class="card-text">
-                                                    Freudian sperate unchary hyperneurotic phlogiston duodecahedron unflown Paguridea catena disrelishable
-                                                    Stygian paleopsychology cantoris phosphoritic disconcord fruited inblow somewhatly ilioperoneal forrard
-                                                    palfrey Satyrinae outfreeman melebiose
+
                                                 </p>
                                             </div>
                                         </div>
