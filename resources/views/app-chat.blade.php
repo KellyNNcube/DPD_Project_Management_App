@@ -274,7 +274,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat chat-left">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avartar.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
@@ -338,7 +338,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat chat-left">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatarjpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
