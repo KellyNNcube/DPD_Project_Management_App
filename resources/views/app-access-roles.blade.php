@@ -465,5 +465,4 @@
 </div>
 <!-- END: Content-->
 
-
 @include('layouts.footer')
