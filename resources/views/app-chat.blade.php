@@ -118,7 +118,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                         <div class="d-flex align-items-center w-100">
                             <div class="sidebar-profile-toggle">
                                 <div class="avatar avatar-border">
-                                    <img src="../../../app-assets/images/portrait/small/avatar-s-11.jpg" alt="user_avatar" height="42" width="42" />
+                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="user_avatar" height="42" width="42" />
                                     <span class="avatar-status-online"></span>
                                 </div>
                             </div>
@@ -135,7 +135,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                         <h4 class="chat-list-title">Chats</h4>
                         <ul class="chat-users-list chat-list media-list">
                             <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-3.jpg" height="42" width="42" alt="Generic placeholder image" />
+                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar.jpg" height="42" width="42" alt="Generic placeholder image" />
                                     <span class="avatar-status-offline"></span>
                                 </span>
                                 <div class="chat-info flex-grow-1">
@@ -160,7 +160,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                         <h4 class="chat-list-title">Contacts</h4>
                         <ul class="chat-users-list contact-list media-list">
                             <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" height="42" width="42" alt="Generic placeholder image" />
+                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar.jpg" height="42" width="42" alt="Generic placeholder image" />
                                 </span>
                                 <div class="chat-info">
                                     <h5 class="mb-0">Affiliate</h5>
@@ -173,7 +173,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
 
 
                             <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-3.jpg" height="42" width="42" alt="Generic placeholder image" />
+                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar.jpg" height="42" width="42" alt="Generic placeholder image" />
                                 </span>
                                 <div class="chat-info">
                                     <h5 class="mb-0">Consultant</h5>
@@ -183,7 +183,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                 </div>
                             </li>
                             <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-13.jpg" height="42" width="42" alt="Generic placeholder image" />
+                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar.jpg" height="42" width="42" alt="Generic placeholder image" />
                                 </span>
                                 <div class="chat-info">
                                     <h5 class="mb-0">Admin</h5>
@@ -230,7 +230,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                             <i data-feather="menu" class="font-medium-5"></i>
                                         </div>
                                         <div class="avatar avatar-border user-profile-toggle m-0 me-1">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="avatar" height="36" width="36" />
+                                            <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             <span class="avatar-status-busy"></span>
                                         </div>
                                         <h6 class="mb-0">User</h6>
@@ -262,7 +262,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatar-s-11.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
@@ -274,7 +274,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat chat-left">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avartar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
@@ -293,7 +293,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatar-s-11.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
@@ -308,7 +308,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat chat-left">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
@@ -326,7 +326,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatar-s-11.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
@@ -338,7 +338,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat chat-left">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatarjpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
                                         <div class="chat-body">
@@ -353,7 +353,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <div class="chat">
                                         <div class="chat-avatar">
                                             <span class="avatar box-shadow-1 cursor-pointer">
-                                                <img src="../../../app-assets/images/portrait/small/avatar-s-11.jpg" alt="avatar" height="36" width="36" />
+                                                <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
 
