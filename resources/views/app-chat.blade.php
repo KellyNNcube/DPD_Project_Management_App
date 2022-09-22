@@ -139,7 +139,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <span class="avatar-status-offline"></span>
                                 </span>
                                 <div class="chat-info flex-grow-1">
-                                    <h5 class="mb-0">Elizabeth Elliott</h5>
+                                    <h5 class="mb-0">Team Lead</h5>
                                     <!-- <p class="card-text text-truncate">
                                         Cake pie jelly jelly beans. Marzipan lemon drops halvah cake. Pudding cookie lemon drops icing
                                     </p> -->
@@ -148,31 +148,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                     <small class="float-end mb-25 chat-time">4:14 PM</small>
                                     <!-- <span class="badge bg-danger rounded-pill float-end">3</span> -->
                                 </div>
-                            </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                    <span class="avatar-status-busy"></span>
-                                </span>
-                                <!-- <div class="chat-info flex-grow-1">
-                                    <h5 class="mb-0">Kristopher Candy</h5>
-                                    <p class="card-text text-truncate">
-                                        Cake pie jelly jelly beans. Marzipan lemon drops halvah cake. Pudding cookie lemon drops icing
-                                    </p>
-                                </div>
-                                <div class="chat-meta text-nowrap">
-                                    <small class="float-end mb-25 chat-time">9:09 AM</small>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-8.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                    <span class="avatar-status-away"></span>
-                                </span>
-                                <div class="chat-info flex-grow-1">
-                                    <h5 class="mb-0">Sarah Woods</h5>
-                                    <p class="card-text text-truncate">
-                                        Cake pie jelly jelly beans. Marzipan lemon drops halvah cake. Pudding cookie lemon drops icing.
-                                    </p>
-                                </div> -->
+
                                 <div class="chat-meta text-nowrap">
                                     <small class="float-end mb-25 chat-time">5:48 PM</small>
                                 </div>
@@ -187,80 +163,22 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                 <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" height="42" width="42" alt="Generic placeholder image" />
                                 </span>
                                 <div class="chat-info">
-                                    <h5 class="mb-0">Jenny Perich</h5>
+                                    <h5 class="mb-0">Affiliate</h5>
                                     <p class="card-text text-truncate">
-                                        Tart dragée carrot cake chocolate bar. Chocolate cake jelly beans caramels tootsie roll candy canes.
+                                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,
                                     </p>
                                 </div>
                             </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                </span>
-                                <div class="chat-info">
-                                    <h5 class="mb-0">Sarah Montgomery</h5>
-                                    <p class="card-text text-truncate">
-                                        Tootsie roll sesame snaps biscuit icing jelly-o biscuit chupa chups powder.
-                                    </p>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-9.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                </span>
-                                <div class="chat-info">
-                                    <h5 class="mb-0">Heather Howell</h5>
-                                    <p class="card-text text-truncate">
-                                        Tart cookie dragée sesame snaps halvah. Fruitcake sugar plum gummies cheesecake toffee.
-                                    </p>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                </span>
-                                <div class="chat-info">
-                                    <h5 class="mb-0">Kelly Reyes</h5>
-                                    <p class="card-text text-truncate">
-                                        Wafer toffee tart jelly cake croissant chocolate bar cupcake donut. Fruitcake gingerbread tiramisu sweet
-                                        jelly-o.
-                                    </p>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-15.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                </span>
-                                <div class="chat-info">
-                                    <h5 class="mb-0">Kristopher Candy</h5>
-                                    <p class="card-text text-truncate">
-                                        Marzipan bonbon chocolate bar biscuit lemon drops muffin jelly-o sweet jujubes.
-                                    </p>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-14.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                </span>
-                                <div class="chat-info">
-                                    <h5 class="mb-0">Vincent Nelson</h5>
-                                    <p class="card-text text-truncate">
-                                        Toffee gummi bears sugar plum gummi bears chocolate bar donut. Pudding cookie lemon drops icing
-                                    </p>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-17.jpg" height="42" width="42" alt="Generic placeholder image" />
-                                </span>
-                                <div class="chat-info">
-                                    <h5 class="mb-0">Jimmy Parker</h5>
-                                    <p class="card-text text-truncate">
-                                        Powder halvah jelly beans topping caramels muffin dragée lollipop oat cake.
-                                    </p>
-                                </div>
-                            </li>
+
+
+
                             <li>
                                 <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-3.jpg" height="42" width="42" alt="Generic placeholder image" />
                                 </span>
                                 <div class="chat-info">
-                                    <h5 class="mb-0">Elizabeth Elliott</h5>
+                                    <h5 class="mb-0">Consultant</h5>
                                     <p class="card-text text-truncate">
-                                        Candy canes ice cream jelly beans carrot cake chocolate bar pastry candy jelly-o.
+                                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                                     </p>
                                 </div>
                             </li>
@@ -268,9 +186,9 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                 <span class="avatar"><img src="../../../app-assets/images/portrait/small/avatar-s-13.jpg" height="42" width="42" alt="Generic placeholder image" />
                                 </span>
                                 <div class="chat-info">
-                                    <h5 class="mb-0">Nelson D'souza</h5>
+                                    <h5 class="mb-0">Admin</h5>
                                     <p class="card-text text-truncate">
-                                        Macaroon candy canes apple pie soufflé lemon drops chocolate cake chocolate sweet roll.
+                                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                                     </p>
                                 </div>
                             </li>
@@ -315,7 +233,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                             <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="avatar" height="36" width="36" />
                                             <span class="avatar-status-busy"></span>
                                         </div>
-                                        <h6 class="mb-0">Kristopher Candy</h6>
+                                        <h6 class="mb-0">User</h6>
                                     </div>
                                     <div class="d-flex align-items-center">
                                         <i data-feather="phone-call" class="cursor-pointer d-sm-block d-none font-medium-2 me-1"></i>
@@ -349,7 +267,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                         </div>
                                         <div class="chat-body">
                                             <div class="chat-content">
-                                                <p>How can we help? We're here for you! 😄</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -361,11 +279,11 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                         </div>
                                         <div class="chat-body">
                                             <div class="chat-content">
-                                                <p>Hey John, I am looking for the best admin template.</p>
-                                                <p>Could you please help me to find it out? 🤔</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.? </p>
                                             </div>
                                             <div class="chat-content">
-                                                <p>It should be Bootstrap 4 compatible.</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -380,10 +298,10 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                         </div>
                                         <div class="chat-body">
                                             <div class="chat-content">
-                                                <p>Absolutely!</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                             <div class="chat-content">
-                                                <p>Vuexy admin is the responsive bootstrap 4 admin template.</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -395,13 +313,13 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                         </div>
                                         <div class="chat-body">
                                             <div class="chat-content">
-                                                <p>Looks clean and fresh UI. 😃</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                             <div class="chat-content">
-                                                <p>It's perfect for my next project.</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                             <div class="chat-content">
-                                                <p>How can I purchase it?</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -413,7 +331,7 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                         </div>
                                         <div class="chat-body">
                                             <div class="chat-content">
-                                                <p>Thanks, from ThemeForest.</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -425,10 +343,10 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                         </div>
                                         <div class="chat-body">
                                             <div class="chat-content">
-                                                <p>I will purchase it for sure. 👍</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                             <div class="chat-content">
-                                                <p>Thanks.</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -438,117 +356,112 @@ Dessert chocolate cake lemon drops jujubes. Biscuit cupcake ice cream bear claw 
                                                 <img src="../../../app-assets/images/portrait/small/avatar-s-11.jpg" alt="avatar" height="36" width="36" />
                                             </span>
                                         </div>
-                                        <div class="chat-body">
-                                            <div class="chat-content">
-                                                <p>Great, Feel free to get in touch on</p>
-                                            </div>
-                                            <div class="chat-content">
-                                                <p>https://pixinvent.ticksy.com/</p>
-                                            </div>
-                                        </div>
+
+
                                     </div>
                                 </div>
                             </div>
-                            <!-- User Chat messages -->
-
-                            <!-- Submit Chat form -->
-                            <form class="chat-app-form" action="javascript:void(0);" onsubmit="enterChat();">
-                                <div class="input-group input-group-merge me-1 form-send-message">
-                                    <span class="speech-to-text input-group-text"><i data-feather="mic" class="cursor-pointer"></i></span>
-                                    <input type="text" class="form-control message" placeholder="Type your message or use speech to text" />
-                                    <span class="input-group-text">
-                                        <label for="attach-doc" class="attachment-icon form-label mb-0">
-                                            <i data-feather="image" class="cursor-pointer text-secondary"></i>
-                                            <input type="file" id="attach-doc" hidden /> </label></span>
-                                </div>
-                                <button type="button" class="btn btn-primary send" onclick="enterChat();">
-                                    <i data-feather="send" class="d-lg-none"></i>
-                                    <span class="d-none d-lg-block">Send</span>
-                                </button>
-                            </form>
-                            <!--/ Submit Chat form -->
                         </div>
-                        <!--/ Active Chat -->
-                    </section>
-                    <!--/ Main chat area -->
+                        <!-- User Chat messages -->
 
-                    <!-- User Chat profile right area -->
-                    <div class="user-profile-sidebar">
-                        <header class="user-profile-header">
-                            <span class="close-icon">
-                                <i data-feather="x"></i>
-                            </span>
-                            <!-- User Profile image with name -->
-                            <div class="header-profile-sidebar">
-                                <div class="avatar box-shadow-1 avatar-border avatar-xl">
-                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="user_avatar" height="70" width="70" />
-                                    <span class="avatar-status-busy avatar-status-lg"></span>
-                                </div>
-                                <h4 class="chat-user-name">Kristopher Candy</h4>
-                                <span class="user-post">UI/UX Designer 👩🏻‍💻</span>
+                        <!-- Submit Chat form -->
+                        <form class="chat-app-form" action="javascript:void(0);" onsubmit="enterChat();">
+                            <div class="input-group input-group-merge me-1 form-send-message">
+                                <span class="speech-to-text input-group-text"><i data-feather="mic" class="cursor-pointer"></i></span>
+                                <input type="text" class="form-control message" placeholder="Type your message or use speech to text" />
+                                <span class="input-group-text">
+                                    <label for="attach-doc" class="attachment-icon form-label mb-0">
+                                        <i data-feather="image" class="cursor-pointer text-secondary"></i>
+                                        <input type="file" id="attach-doc" hidden /> </label></span>
                             </div>
-                            <!--/ User Profile image with name -->
-                        </header>
-                        <div class="user-profile-sidebar-area">
-                            <!-- About User -->
-                            <h6 class="section-label mb-1">About</h6>
-                            <p>Toffee caramels jelly-o tart gummi bears cake I love ice cream lollipop.</p>
-                            <!-- About User -->
-                            <!-- User's personal information -->
-                            <div class="personal-info">
-                                <h6 class="section-label mb-1 mt-3">Personal Information</h6>
-                                <ul class="list-unstyled">
-                                    <li class="mb-1">
-                                        <i data-feather="mail" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">kristycandy@email.com</span>
-                                    </li>
-                                    <li class="mb-1">
-                                        <i data-feather="phone-call" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">+1(123) 456 - 7890</span>
-                                    </li>
-                                    <li>
-                                        <i data-feather="clock" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">Mon - Fri 10AM - 8PM</span>
-                                    </li>
-                                </ul>
-                            </div>
-                            <!--/ User's personal information -->
-
-                            <!-- User's Links -->
-                            <div class="more-options">
-                                <h6 class="section-label mb-1 mt-3">Options</h6>
-                                <ul class="list-unstyled">
-                                    <li class="cursor-pointer mb-1">
-                                        <i data-feather="tag" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">Add Tag</span>
-                                    </li>
-                                    <li class="cursor-pointer mb-1">
-                                        <i data-feather="star" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">Important Contact</span>
-                                    </li>
-                                    <li class="cursor-pointer mb-1">
-                                        <i data-feather="image" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">Shared Media</span>
-                                    </li>
-                                    <li class="cursor-pointer mb-1">
-                                        <i data-feather="trash" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">Delete Contact</span>
-                                    </li>
-                                    <li class="cursor-pointer">
-                                        <i data-feather="slash" class="font-medium-2 me-50"></i>
-                                        <span class="align-middle">Block Contact</span>
-                                    </li>
-                                </ul>
-                            </div>
-                            <!--/ User's Links -->
-                        </div>
-                    </div>
-                    <!--/ User Chat profile right area -->
-
+                            <button type="button" class="btn btn-primary send" onclick="enterChat();">
+                                <i data-feather="send" class="d-lg-none"></i>
+                                <span class="d-none d-lg-block">Send</span>
+                            </button>
+                        </form>
+                        <!--/ Submit Chat form -->
                 </div>
+                <!--/ Active Chat -->
+                </section>
+                <!--/ Main chat area -->
+
+                <!-- User Chat profile right area -->
+                <div class="user-profile-sidebar">
+                    <header class="user-profile-header">
+                        <span class="close-icon">
+                            <i data-feather="x"></i>
+                        </span>
+                        <!-- User Profile image with name -->
+                        <div class="header-profile-sidebar">
+                            <div class="avatar box-shadow-1 avatar-border avatar-xl">
+                                <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="user_avatar" height="70" width="70" />
+                                <span class="avatar-status-busy avatar-status-lg"></span>
+                            </div>
+                            <h4 class="chat-user-name">Kristopher Candy</h4>
+                            <span class="user-post">UI/UX Designer 👩🏻‍💻</span>
+                        </div>
+                        <!--/ User Profile image with name -->
+                    </header>
+                    <div class="user-profile-sidebar-area">
+                        <!-- About User -->
+                        <h6 class="section-label mb-1">About</h6>
+                        <p>Toffee caramels jelly-o tart gummi bears cake I love ice cream lollipop.</p>
+                        <!-- About User -->
+                        <!-- User's personal information -->
+                        <div class="personal-info">
+                            <h6 class="section-label mb-1 mt-3">Personal Information</h6>
+                            <ul class="list-unstyled">
+                                <li class="mb-1">
+                                    <i data-feather="mail" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">kristycandy@email.com</span>
+                                </li>
+                                <li class="mb-1">
+                                    <i data-feather="phone-call" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">+1(123) 456 - 7890</span>
+                                </li>
+                                <li>
+                                    <i data-feather="clock" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">Mon - Fri 10AM - 8PM</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <!--/ User's personal information -->
+
+                        <!-- User's Links -->
+                        <div class="more-options">
+                            <h6 class="section-label mb-1 mt-3">Options</h6>
+                            <ul class="list-unstyled">
+                                <li class="cursor-pointer mb-1">
+                                    <i data-feather="tag" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">Add Tag</span>
+                                </li>
+                                <li class="cursor-pointer mb-1">
+                                    <i data-feather="star" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">Important Contact</span>
+                                </li>
+                                <li class="cursor-pointer mb-1">
+                                    <i data-feather="image" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">Shared Media</span>
+                                </li>
+                                <li class="cursor-pointer mb-1">
+                                    <i data-feather="trash" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">Delete Contact</span>
+                                </li>
+                                <li class="cursor-pointer">
+                                    <i data-feather="slash" class="font-medium-2 me-50"></i>
+                                    <span class="align-middle">Block Contact</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <!--/ User's Links -->
+                    </div>
+                </div>
+                <!--/ User Chat profile right area -->
+
             </div>
         </div>
     </div>
+</div>
 </div>
 <!-- END: Content-->
 
