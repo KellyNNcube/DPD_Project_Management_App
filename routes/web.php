@@ -83,4 +83,13 @@ Route::get('/app-kanban', function () {
     return view('kanban');
 });
 
+Route::get('/auth-log', function () {
+    return view('auth-log');
+});
+
+Route::get('/auth-register', function () {
+    return view('auth-register');
+});
+
+
 require __DIR__ . '/auth.php';
