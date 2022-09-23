@@ -197,7 +197,7 @@
                                                 <p>Project meeting with Carl</p>
                                                 <div class="d-flex align-items-center">
                                                     <div class="avatar me-50">
-                                                        <img src="../../../app-assets/images/portrait/small/avatar-s-9.jpg" alt="Avatar" width="38" height="38" />
+                                                        <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="38" height="38" />
                                                     </div>
                                                     <div class="more-info">
                                                         <h6 class="mb-0">Carl Roy (Client)</h6>
@@ -213,19 +213,19 @@
                                                 <p>Add files to new design folder</p>
                                                 <div class="avatar-group">
                                                     <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Billy Hopkins" class="avatar pull-up">
-                                                        <img src="../../../app-assets/images/portrait/small/avatar-s-9.jpg" alt="Avatar" width="33" height="33" />
+                                                        <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
                                                     </div>
                                                     <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Amy Carson" class="avatar pull-up">
-                                                        <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" width="33" height="33" />
+                                                        <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
                                                     </div>
                                                     <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Brandon Miles" class="avatar pull-up">
-                                                        <img src="../../../app-assets/images/portrait/small/avatar-s-8.jpg" alt="Avatar" width="33" height="33" />
+                                                        <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
                                                     </div>
                                                     <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Daisy Weber" class="avatar pull-up">
-                                                        <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" width="33" height="33" />
+                                                        <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
                                                     </div>
                                                     <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Jenny Looper" class="avatar pull-up">
-                                                        <img src="../../../app-assets/images/portrait/small/avatar-s-20.jpg" alt="Avatar" width="33" height="33" />
+                                                        <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -296,16 +296,16 @@
                                     <div class="design-group pt-25">
                                         <h6 class="section-label">Members</h6>
                                         <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-9.jpg" width="34" height="34" alt="Avatar" />
+                                            <img src="../../../app-assets/images/portrait/small/avatar.jpg" width="34" height="34" alt="Avatar" />
                                         </div>
                                         <div class="avatar bg-light-danger">
                                             <div class="avatar-content">PI</div>
                                         </div>
                                         <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-14.jpg" width="34" height="34" alt="Avatar" />
+                                            <img src="../../../app-assets/images/portrait/small/avatar.jpg" width="34" height="34" alt="Avatar" />
                                         </div>
                                         <div class="avatar">
-                                            <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" width="34" height="34" alt="Avatar" />
+                                            <img src="../../../app-assets/images/portrait/small/avatar.jpg" width="34" height="34" alt="Avatar" />
                                         </div>
                                         <div class="avatar bg-light-secondary">
                                             <div class="avatar-content">AL</div>

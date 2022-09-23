@@ -178,13 +178,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
@@ -216,13 +216,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
@@ -254,13 +254,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
@@ -292,13 +292,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
@@ -711,7 +711,7 @@
                         <div class="modal-content p-0">
                             <form id="form-modal-todo" class="todo-modal needs-validation" novalidate onsubmit="return false">
                                 <div class="modal-header align-items-center mb-1">
-                                    <h5 class="modal-title">Add Task</h5>
+                                    <h5 class="modal-title">Add Project</h5>
                                     <div class="todo-item-action d-flex align-items-center justify-content-between ms-auto">
                                         <span class="todo-item-favorite cursor-pointer me-75"><i data-feather="star" class="font-medium-2"></i></span>
                                         <i data-feather="x" class="cursor-pointer" data-bs-dismiss="modal" stroke-width="3"></i>

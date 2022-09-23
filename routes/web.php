@@ -83,5 +83,4 @@ Route::get('/app-kanban', function () {
     return view('kanban');
 });
 
-
 require __DIR__ . '/auth.php';
