@@ -1498,7 +1498,8 @@ progress {
   vertical-align: inherit; }
 
 .table > thead {
-  vertical-align: bottom; }
+  vertical-align: bottom;
+  color: #ff7a3d; }
 
 .table > :not(:last-child) > :last-child > * {
   border-bottom-color: #ebe9f1; }
