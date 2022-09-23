@@ -51,7 +51,7 @@
                                             <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" class="rounded" width="42" height="42" alt="Avatar" />
                                         </div>
                                         <div class="my-auto">
-                                            <h6 class="mb-0">Malaria Combat Research</h6>
+                                            <h6 class="mb-0">Malaria Combat</h6>
                                             <small>Health System Advisory</small>
                                         </div>
                                     </div>
