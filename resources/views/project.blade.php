@@ -146,11 +146,11 @@
                                 <div class="dropdown-menu dropdown-menu-end" aria-labelledby="todoActions">
                                     <a class="dropdown-item sort-asc" href="#">Sort A - Z</a>
                                     <a class="dropdown-item sort-desc" href="#">Sort Z - A</a>
-                                    <a class="dropdown-item" href="#">Sort Assignee</a>
-                                    <a class="dropdown-item" href="#">Sort Due Date</a>
-                                    <a class="dropdown-item" href="#">Sort Today</a>
-                                    <a class="dropdown-item" href="#">Sort 1 Week</a>
-                                    <a class="dropdown-item" href="#">Sort 1 Month</a>
+                                    <a class="dropdown-item" href="#">Sort Team Leads</a>
+                                    <a class="dropdown-item" href="#">Sort Start Date</a>
+                                    <a class="dropdown-item" href="#">Sort End date</a>
+                                    <a class="dropdown-item" href="#">Sort by </a>
+
                                 </div>
                             </div>
                         </div>
@@ -711,7 +711,7 @@
                         <div class="modal-content p-0">
                             <form id="form-modal-todo" class="todo-modal needs-validation" novalidate onsubmit="return false">
                                 <div class="modal-header align-items-center mb-1">
-                                    <h5 class="modal-title">Add Task</h5>
+                                    <h5 class="modal-title">Add Project</h5>
                                     <div class="todo-item-action d-flex align-items-center justify-content-between ms-auto">
                                         <span class="todo-item-favorite cursor-pointer me-75"><i data-feather="star" class="font-medium-2"></i></span>
                                         <i data-feather="x" class="cursor-pointer" data-bs-dismiss="modal" stroke-width="3"></i>
@@ -726,8 +726,8 @@
                                         <div class="mb-1 position-relative">
                                             <label for="team-leader" class="form-label d-block">Team Leader</label>
                                             <select class="select2 form-select" id="team-leader" name="team-leader">
-                                                <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-3.jpg" value="Phill Buffer" selected>
-                                                    Phill Buffer
+                                                <option data-img="../../../app-assets/images/portrait/small/avatar.jpg" value="Halima" selected>
+                                                    Halima
                                                 </option>
                                                 <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-1.jpg" value="Chandler Bing">
                                                     Chandler Bing
