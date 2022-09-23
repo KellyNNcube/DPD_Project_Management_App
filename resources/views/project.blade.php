@@ -178,13 +178,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
@@ -216,13 +216,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
@@ -254,13 +254,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
@@ -292,13 +292,13 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-5.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-6.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                                 <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar-s-7.jpg" alt="Avatar" height="26" width="26" />
+                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
                                         </td>
