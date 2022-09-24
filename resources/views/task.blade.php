@@ -104,7 +104,7 @@
                                                     <input type="checkbox" class="form-check-input" id="customCheck1" />
                                                     <label class="form-check-label" for="customCheck1"></label>
                                                 </div>
-                                                <span class="todo-title">Fix Responsiveness for new structure 💻</span>
+                                                <span class="todo-title">Email Project Sponsor</span>
                                             </div>
                                         </div>
                                         <div class="todo-item-action">
@@ -113,7 +113,7 @@
                                             </div>
                                             <small class="text-nowrap text-muted me-1">Aug 08</small>
                                             <div class="avatar">
-                                                <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-4.jpg" alt="user-avatar" height="32" width="32" />
+                                                <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="user-avatar" height="32" width="32" />
                                             </div>
                                         </div>
                                     </div>

@@ -163,27 +163,27 @@
                                     <tr>
                                         <th>Project</th>
                                         <th>Client</th>
-                                        <th>Users</th>
-                                        <th>Status</th>
+                                        <th>Teams</th>
+                                        <th>Project Status</th>
                                         <th>Actions</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <img src="../../../app-assets/images/icons/angular.svg" class="me-75" height="20" width="20" alt="Angular" />
-                                            <span class="fw-bold">Angular Project</span>
+                                            <!-- <img src="../../../app-assets/images/icons/angular.svg" class="me-75" height="20" width="20" alt="Angular" /> -->
+                                            <span class="fw-bold">Maleria Project</span>
                                         </td>
-                                        <td>Peter Charls</td>
+                                        <td>USAID</td>
                                         <td>
                                             <div class="avatar-group">
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Numa">
                                                     <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Ola">
                                                     <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="John">
                                                     <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
@@ -209,19 +209,19 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <img src="../../../app-assets/images/icons/react.svg" class="me-75" height="20" width="20" alt="React" />
-                                            <span class="fw-bold">React Project</span>
+                                            <!-- <img src="../../../app-assets/images/icons/react.svg" class="me-75" height="20" width="20" alt="React" /> -->
+                                            <span class="fw-bold">Mobile Hospitals</span>
                                         </td>
-                                        <td>Ronald Frest</td>
+                                        <td>ROCHE Foundation</td>
                                         <td>
                                             <div class="avatar-group">
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Lilian Nenez">
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Numa">
                                                     <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Ola">
                                                     <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Alberto Glotzbach">
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="John">
                                                     <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
                                                 </div>
                                             </div>
@@ -245,7 +245,7 @@
                                             </div>
                                         </td>
                                     </tr>
-                                    <tr>
+                                    <!-- <tr>
                                         <td>
                                             <img src="../../../app-assets/images/icons/vuejs.svg" class="me-75" height="20" width="20" alt="Vuejs" />
                                             <span class="fw-bold">Vuejs Project</span>
@@ -320,7 +320,7 @@
                                                 </div>
                                             </div>
                                         </td>
-                                    </tr>
+                                    </tr> -->
                                 </tbody>
                             </table>
                         </div>
@@ -711,7 +711,7 @@
                         <div class="modal-content p-0">
                             <form id="form-modal-todo" class="todo-modal needs-validation" novalidate onsubmit="return false">
                                 <div class="modal-header align-items-center mb-1">
-                                    <h5 class="modal-title">Add Project</h5>
+                                    <h5>Add Project</h5>
                                     <div class="todo-item-action d-flex align-items-center justify-content-between ms-auto">
                                         <span class="todo-item-favorite cursor-pointer me-75"><i data-feather="star" class="font-medium-2"></i></span>
                                         <i data-feather="x" class="cursor-pointer" data-bs-dismiss="modal" stroke-width="3"></i>
@@ -720,53 +720,37 @@
                                 <div class="modal-body flex-grow-1 pb-sm-0 pb-3">
                                     <div class="action-tags">
                                         <div class="mb-1">
-                                            <label for="todoTitleAdd" class="form-label">Title</label>
-                                            <input type="text" id="todoTitleAdd" name="todoTitleAdd" class="new-todo-item-title form-control" placeholder="Title" />
+                                            <label for="todoTitleAdd" class="form-label">Project name</label>
+                                            <input type="text" id="todoTitleAdd" name="todoTitleAdd" class="new-todo-item-title form-control" placeholder="Project Name" />
                                         </div>
                                         <div class="mb-1 position-relative">
-                                            <label for="team-leader" class="form-label d-block">Team Leader</label>
+                                            <label for="team-leader" class="form-label d-block">Project Team Leader</label>
                                             <select class="select2 form-select" id="team-leader" name="team-leader">
                                                 <option data-img="../../../app-assets/images/portrait/small/avatar.jpg" value="Halima" selected>
                                                     Halima
                                                 </option>
                                                 <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-1.jpg" value="Chandler Bing">
-                                                    Chandler Bing
+                                                    Jessy
                                                 </option>
                                                 <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-4.jpg" value="Ross Geller">
-                                                    Ross Geller
+                                                    Julius
                                                 </option>
-                                                <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-6.jpg" value="Monica Geller">
-                                                    Monica Geller
-                                                </option>
-                                                <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-2.jpg" value="Joey Tribbiani">
-                                                    Joey Tribbiani
-                                                </option>
-                                                <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-11.jpg" value="Rachel Green">
-                                                    Rachel Green
-                                                </option>
+
                                             </select>
                                         </div>
                                         <div class="mb-1 position-relative">
-                                            <label for="task-assigned" class="form-label d-block">Assignee</label>
+                                            <label for="task-assigned" class="form-label d-block">Team Memebers</label>
                                             <select class="select2 form-select" id="task-assigned" name="task-assigned" multiple="multiple">
                                                 <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-3.jpg" value="Phill Buffer" selected>
-                                                    Phill Buffer
+                                                    Halima
                                                 </option>
                                                 <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-1.jpg" value="Chandler Bing">
-                                                    Chandler Bing
+                                                    jessy
                                                 </option>
                                                 <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-4.jpg" value="Ross Geller">
-                                                    Ross Geller
+                                                    Julius
                                                 </option>
-                                                <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-6.jpg" value="Monica Geller">
-                                                    Monica Geller
-                                                </option>
-                                                <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-2.jpg" value="Joey Tribbiani">
-                                                    Joey Tribbiani
-                                                </option>
-                                                <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-11.jpg" value="Rachel Green">
-                                                    Rachel Green
-                                                </option>
+
                                             </select>
                                         </div>
                                         <div class="mb-1">
@@ -780,7 +764,7 @@
                                                 <option value="Low">Health System Advisory</option>
                                                 <option value="Medium">Digital Health Research</option>
                                                 <option value="High">Project Implementation</option>
-                                                <!-- <option value="Update">Update</option> -->
+                                                <option value="Update">Update</option>
                                             </select>
                                         </div>
                                         <div class="mb-1">

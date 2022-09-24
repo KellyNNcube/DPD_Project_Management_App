@@ -49,6 +49,7 @@
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-chat.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/components/components-alerts.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-todo.js"></script>
+<script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/project.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-calendar-events.js"></script>
 <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-calendar.js"></script>
 <!-- <script src="{{ ENV('APP_URL') }}/app-assets/js/scripts/pages/app-project.js"></script> -->
