@@ -61,7 +61,7 @@
                                 <!-- header section -->
                                 <div class="d-flex">
                                     <a href="#" class="me-25">
-                                        <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-11.jpg" id="account-upload-img" class="uploadedAvatar rounded me-50" alt="profile image" height="100" width="100" />
+                                        <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" id="account-upload-img" class="uploadedAvatar rounded me-50" alt="profile image" height="100" width="100" />
                                     </a>
                                     <!-- upload and reset button -->
                                     <div class="d-flex align-items-end mt-75 ms-1">
@@ -81,11 +81,11 @@
                                     <div class="row">
                                         <div class="col-12 col-sm-6 mb-1">
                                             <label class="form-label" for="accountFirstName">First Name</label>
-                                            <input type="text" class="form-control" id="accountFirstName" name="firstName" placeholder="Nam" value="John" data-msg="Please enter first name" />
+                                            <input type="text" class="form-control" id="accountFirstName" name="firstName" placeholder="Nam" value="Steve" data-msg="Please enter first name" />
                                         </div>
                                         <div class="col-12 col-sm-6 mb-1">
                                             <label class="form-label" for="accountLastName">Last Name</label>
-                                            <input type="text" class="form-control" id="accountLastName" name="lastName" placeholder="Doe" value="Doe" data-msg="Please enter last name" />
+                                            <input type="text" class="form-control" id="accountLastName" name="lastName" placeholder="Doe" value="Olome" data-msg="Please enter last name" />
                                         </div>
                                         <div class="col-12 col-sm-6 mb-1">
                                             <label class="form-label" for="accountEmail">Email</label>

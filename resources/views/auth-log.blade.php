@@ -53,7 +53,7 @@
             <div class="content-body">
                 <div class="auth-wrapper auth-cover">
                     <div class="auth-inner row m-0">
-                        <!-- Brand logo--><a class="brand-logo" href="index.html">
+                        <!-- Brand logo--><a class="brand-logo" href="#">
                         <img src="../../../app-assets/images/ico/dpd.ico" class="img-fluid" alt="Brand logo">
                         </a>
                         <!-- /Brand logo-->
