@@ -36,10 +36,10 @@
                                                 <p class="invoice-date-title">Date Issued:</p>
                                                 <p class="invoice-date">25/09/2022</p>
                                             </div>
-                                            <div class="invoice-date-wrapper">
+                                            <!-- <div class="invoice-date-wrapper">
                                                 <p class="invoice-date-title">Due Date:</p>
                                                 <p class="invoice-date">29/09/2022</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <!-- Header ends -->
@@ -64,7 +64,7 @@
                                                 <tbody>
                                                     <tr>
                                                         <td class="pe-1">Total Due:</td>
-                                                        <td><span class="fw-bold">$12,110.55</span></td>
+                                                        <td><span class="fw-bold">₦12,110.55</span></td>
                                                     </tr>
                                                     <tr>
                                                         <td class="pe-1">Bank name:</td>
@@ -109,13 +109,13 @@
                                                     </p>
                                                 </td>
                                                 <td class="py-1">
-                                                    <span class="fw-bold">$60.00</span>
+                                                    <span class="fw-bold">₦60.00</span>
                                                 </td>
                                                 <td class="py-1">
                                                     <span class="fw-bold">30</span>
                                                 </td>
                                                 <td class="py-1">
-                                                    <span class="fw-bold">$1,800.00</span>
+                                                    <span class="fw-bold">₦1,800.00</span>
                                                 </td>
                                             </tr>
                                             <tr class="border-bottom">
@@ -124,13 +124,13 @@
                                                     <p class="card-text text-nowrap">Designed a UI kit for native app using Sketch, Figma & Adobe XD</p>
                                                 </td>
                                                 <td class="py-1">
-                                                    <span class="fw-bold">$60.00</span>
+                                                    <span class="fw-bold">₦60.00</span>
                                                 </td>
                                                 <td class="py-1">
                                                     <span class="fw-bold">20</span>
                                                 </td>
                                                 <td class="py-1">
-                                                    <span class="fw-bold">$1200.00</span>
+                                                    <span class="fw-bold">₦1200.00</span>
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -148,11 +148,11 @@
                                             <div class="invoice-total-wrapper">
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Subtotal:</p>
-                                                    <p class="invoice-total-amount">$1800</p>
+                                                    <p class="invoice-total-amount">₦1800</p>
                                                 </div>
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Discount:</p>
-                                                    <p class="invoice-total-amount">$28</p>
+                                                    <p class="invoice-total-amount">₦28</p>
                                                 </div>
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Tax:</p>
@@ -161,7 +161,7 @@
                                                 <hr class="my-50" />
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Total:</p>
-                                                    <p class="invoice-total-amount">$1690</p>
+                                                    <p class="invoice-total-amount">₦1690</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -236,7 +236,7 @@ Dear Queen Consolidated,
 
 Thank you for your business, always a pleasure to work with you!
 
-We have generated a new invoice in the amount of $95.59
+We have generated a new invoice in the amount of ₦95.59
 
 We would appreciate payment of this invoice by 05/11/2019</textarea>
                                     </div>
@@ -274,7 +274,7 @@ We would appreciate payment of this invoice by 05/11/2019</textarea>
                                     </div>
                                     <div class="mb-1">
                                         <label class="form-label" for="amount">Payment Amount</label>
-                                        <input id="amount" class="form-control" type="number" placeholder="$1000" />
+                                        <input id="amount" class="form-control" type="number" placeholder="₦1000" />
                                     </div>
                                     <div class="mb-1">
                                         <label class="form-label" for="payment-date">Payment Date</label>

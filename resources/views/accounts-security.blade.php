@@ -27,7 +27,7 @@
                     <div class="mb-1 breadcrumb-right">
                         <div class="dropdown">
                             <button class="btn-icon btn btn-primary btn-round btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i data-feather="grid"></i></button>
-                            <div class="dropdown-menu dropdown-menu-end"><a class="dropdown-item" href="app-todo.html"><i class="me-1" data-feather="check-square"></i><span class="align-middle">Todo</span></a><a class="dropdown-item" href="app-chat.html"><i class="me-1" data-feather="message-square"></i><span class="align-middle">Chat</span></a><a class="dropdown-item" href="app-email.html"><i class="me-1" data-feather="mail"></i><span class="align-middle">Email</span></a><a class="dropdown-item" href="app-calendar.html"><i class="me-1" data-feather="calendar"></i><span class="align-middle">Calendar</span></a></div>
+                            <div class="dropdown-menu dropdown-menu-end"><a class="dropdown-item" href="/app-todo"><i class="me-1" data-feather="check-square"></i><span class="align-middle">Todo</span></a><a class="dropdown-item" href="app-chat.html"><i class="me-1" data-feather="message-square"></i><span class="align-middle">Chat</span></a><a class="dropdown-item" href="app-email.html"><i class="me-1" data-feather="mail"></i><span class="align-middle">Email</span></a><a class="dropdown-item" href="app-calendar.html"><i class="me-1" data-feather="calendar"></i><span class="align-middle">Calendar</span></a></div>
                         </div>
                     </div>
                 </div>
@@ -38,14 +38,14 @@
                         <ul class="nav nav-pills mb-2">
                             <!-- account -->
                             <li class="nav-item">
-                                <a class="nav-link" href="/account">
+                                <a class="nav-link" href="/accounts-profile">
                                     <i data-feather="user" class="font-medium-3 me-50"></i>
                                     <span class="fw-bold">Account</span>
                                 </a>
                             </li>
                             <!-- security -->
                             <li class="nav-item">
-                                <a class="nav-link active" href="page-account-settings-security.html">
+                                <a class="nav-link active" href="/accounts-security">
                                     <i data-feather="lock" class="font-medium-3 me-50"></i>
                                     <span class="fw-bold">Security</span>
                                 </a>

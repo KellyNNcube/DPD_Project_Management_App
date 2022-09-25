@@ -41,10 +41,10 @@
                                                 <span class="title">Date:</span>
                                                 <input type="text" class="form-control invoice-edit-input date-picker" />
                                             </div>
-                                            <div class="d-flex align-items-center">
+                                            <!-- <div class="d-flex align-items-center">
                                                 <span class="title">Due Date:</span>
                                                 <input type="text" class="form-control invoice-edit-input due-date-picker" />
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -71,23 +71,25 @@
                                                 <tbody>
                                                     <tr>
                                                         <td class="pe-1">Total Due:</td>
-                                                        <td><strong>$12,110.55</strong></td>
+                                                        <td><strong></div>
+                                                    <input type="text" class="form-control invoice-edit-input" placeholder="₦12,110.55" />
+                                                </div></strong></td>
                                                     </tr>
                                                     <tr>
                                                         <td class="pe-1">Bank name:</td>
-                                                        <td>American Bank</td>
+                                                        <td><input type="text" class="form-control invoice-edit-input" placeholder="Standard Bank" /></td>
                                                     </tr>
                                                     <tr>
                                                         <td class="pe-1">Country:</td>
-                                                        <td>United States</td>
+                                                        <td><input type="text" class="form-control invoice-edit-input" placeholder="Nigeria" /></td>
                                                     </tr>
                                                     <tr>
                                                         <td class="pe-1">IBAN:</td>
-                                                        <td>ETD95476213874685</td>
+                                                        <td><input type="text" class="form-control invoice-edit-input" placeholder="ETD95476213874685" /></td>
                                                     </tr>
                                                     <tr>
                                                         <td class="pe-1">SWIFT code:</td>
-                                                        <td>BR91905</td>
+                                                        <td><input type="text" class="form-control invoice-edit-input" placeholder="BR91905" /></td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -130,7 +132,7 @@
                                                             </div>
                                                             <div class="col-lg-2 col-12 mt-lg-0 mt-2">
                                                                 <p class="card-text col-title mb-md-50 mb-0">Price</p>
-                                                                <p class="card-text mb-0">$24.00</p>
+                                                                <p class="card-text mb-0">₦24.00</p>
                                                             </div>
                                                         </div>
                                             <div class=" d-flex flex-column align-items-center justify-content-between border-start invoice-product-actions py-50
@@ -204,11 +206,11 @@
                                             <div class="invoice-total-wrapper">
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Subtotal:</p>
-                                                    <p class="invoice-total-amount">$1800</p>
+                                                    <p class="invoice-total-amount">₦1800</p>
                                                 </div>
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Discount:</p>
-                                                    <p class="invoice-total-amount">$28</p>
+                                                    <p class="invoice-total-amount">₦28</p>
                                                 </div>
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Tax:</p>
@@ -217,7 +219,7 @@
                                                 <hr class="my-50" />
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Total:</p>
-                                                    <p class="invoice-total-amount">$1690</p>
+                                                    <p class="invoice-total-amount">₦1690</p>
                                                 </div>
                                             </div>
                                         </div>
