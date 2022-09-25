@@ -100,17 +100,33 @@
                             </div>
                             <div class="list-group list-group-labels">
                                 <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
-                                    <span class="bullet bullet-sm bullet-primary me-1"></span>Development Consulting
+                                    <span class="bullet bullet-sm bullet-primary me-1"></span>Economic Development
                                 </a>
                                 <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
-                                    <span class="bullet bullet-sm bullet-success me-1"></span>Health System Advisory
+                                    <span class="bullet bullet-sm bullet-success me-1"></span>Health
                                 </a>
                                 <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
-                                    <span class="bullet bullet-sm bullet-warning me-1"></span>Digital Health Research
+                                    <span class="bullet bullet-sm bullet-warning me-1"></span>Education
                                 </a>
                                 <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
-                                    <span class="bullet bullet-sm bullet-danger me-1"></span>Project Implementation
+                                    <span class="bullet bullet-sm bullet-danger me-1"></span>Food Security
                                 </a>
+
+                                <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
+                                    <span class="bullet bullet-sm bullet-danger me-1"></span>Supply Chain
+                                </a>
+
+                                <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
+                                    <span class="bullet bullet-sm bullet-danger me-1"></span>Agri Business
+                                </a>
+
+                                <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
+                                    <span class="bullet bullet-sm bullet-danger me-1"></span>Water & sanitation
+                                </a>
+
+
+                                <br><br>
+
                                 <!-- <a href="#" class="list-group-item list-group-item-action d-flex align-items-center">
                                     <span class="bullet bullet-sm bullet-info me-1"></span>Update
                                 </a> -->
@@ -165,6 +181,7 @@
                                         <th>Client</th>
                                         <th>Teams</th>
                                         <th>Project Status</th>
+                                        <th>Focus Area</th>
                                         <th>Actions</th>
                                     </tr>
                                 </thead>
@@ -189,6 +206,10 @@
                                             </div>
                                         </td>
                                         <td><span class="badge rounded-pill badge-light-primary me-1">Active</span></td>
+                                        <td>
+                                            Health
+                                        </td>
+
                                         <td>
                                             <div class="dropdown">
                                                 <button type="button" class="btn btn-sm dropdown-toggle hide-arrow py-0" data-bs-toggle="dropdown">
@@ -228,6 +249,10 @@
                                         </td>
                                         <td><span class="badge rounded-pill badge-light-success me-1">Completed</span></td>
                                         <td>
+                                            Health
+                                        </td>
+                                        <td>
+
                                             <div class="dropdown">
                                                 <button type="button" class="btn btn-sm dropdown-toggle hide-arrow py-0" data-bs-toggle="dropdown">
                                                     <i data-feather="more-vertical"></i>

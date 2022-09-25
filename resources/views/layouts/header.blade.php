@@ -198,9 +198,7 @@
                                 <li class="active"><a class="d-flex align-items-center" href="/accounts-profile"><span class="menu-item text-truncate" data-i18n="Account">Account</span></a>
                                 </li>
                                 <li><a class="d-flex align-items-center" href="/accounts-security"><span class="menu-item text-truncate" data-i18n="Security">Security</span></a>
-                                </li>
-                                <li class=" nav-item"><a class="d-flex align-items-center" href="/app-access-roles"><i data-feather="mail"></i><span class="menu-title text-truncate" data-i18n="app-access-roles">App Access Roles</span></a>
-                                </li>
+                               
                             </ul>
                         </li>
 
