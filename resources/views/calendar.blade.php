@@ -38,8 +38,8 @@
                                             <label class="form-check-label" for="business">Business</label>
                                         </div>
                                         <div class="form-check form-check-warning mb-1">
-                                            <input type="checkbox" class="form-check-input input-filter" id="family" data-value="family" checked />
-                                            <label class="form-check-label" for="family">Family</label>
+                                            <input type="checkbox" class="form-check-input input-filter" id="Team" data-value="Team" checked />
+                                            <label class="form-check-label" for="Team">Team</label>
                                         </div>
                                         <div class="form-check form-check-success mb-1">
                                             <input type="checkbox" class="form-check-input input-filter" id="holiday" data-value="holiday" checked />
@@ -89,7 +89,7 @@
                                         <select class="select2 select-label form-select w-100" id="select-label" name="select-label">
                                             <option data-label="primary" value="Business" selected>Business</option>
                                             <option data-label="danger" value="Personal">Personal</option>
-                                            <option data-label="warning" value="Family">Family</option>
+                                            <option data-label="warning" value="Team">Team</option>
                                             <option data-label="success" value="Holiday">Holiday</option>
                                             <option data-label="info" value="ETC">ETC</option>
                                         </select>

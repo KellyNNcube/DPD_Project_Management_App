@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
       Business: 'primary',
       Holiday: 'success',
       Personal: 'danger',
-      Family: 'warning',
+      Team: 'warning',
       ETC: 'info'
     },
     eventForm = $('.event-form'),

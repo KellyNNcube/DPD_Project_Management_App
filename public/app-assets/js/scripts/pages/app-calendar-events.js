@@ -37,7 +37,7 @@ var events = [
   {
     id: 3,
     url: '',
-    title: 'Family Trip',
+    title: 'Team Trip',
     allDay: true,
     start: new Date(date.getFullYear(), date.getMonth() + 1, -9),
     end: new Date(date.getFullYear(), date.getMonth() + 1, -7),
@@ -86,7 +86,7 @@ var events = [
     end: new Date(date.getFullYear(), date.getMonth() + 1, -12),
     allDay: true,
     extendedProps: {
-      calendar: 'Family'
+      calendar: 'Team'
     }
   },
   {
