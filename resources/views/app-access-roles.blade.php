@@ -10,8 +10,8 @@
         <div class="content-body">
             <h3>Roles List</h3>
             <p class="mb-2">
-                A role provided access to predefined menus and features so that depending <br />
-                on assigned role an administrator can have access to what he need
+                Roles assigned here, determine the levvel of control and access a user has on the platform <br />
+
             </p>
 
             <!-- Role cards -->
@@ -22,23 +22,23 @@
                             <div class="d-flex justify-content-between">
                                 <span>Total 4 users</span>
                                 <ul class="list-unstyled d-flex align-items-center avatar-group mb-0">
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Vinnie Mostowy" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/2.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Nate" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Allen Rieske" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/12.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kelly" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Julee Rossignol" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/6.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Aaminah" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kaith D'souza" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/11.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Treasure" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
                                 </ul>
                             </div>
                             <div class="d-flex justify-content-between align-items-end mt-1 pt-25">
                                 <div class="role-heading">
-                                    <h4 class="fw-bolder">Administrator</h4>
+                                    <h4 class="fw-bolder">IT Suport</h4>
                                     <a href="javascript:;" class="role-edit-modal" data-bs-toggle="modal" data-bs-target="#addRoleModal">
                                         <small class="fw-bolder">Edit Role</small>
                                     </a>
@@ -52,28 +52,28 @@
                     <div class="card">
                         <div class="card-body">
                             <div class="d-flex justify-content-between">
-                                <span>Total 7 users</span>
+                                <span>Total 4 users</span>
                                 <ul class="list-unstyled d-flex align-items-center avatar-group mb-0">
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Jimmy Ressula" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/4.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Ola" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="John Doe" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/1.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Tunde" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kristi Lawker" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/2.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Wunmi" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kaith D'souza" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/5.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Juliet" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Danny Paul" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/7.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Annabel" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
                                 </ul>
                             </div>
                             <div class="d-flex justify-content-between align-items-end mt-1 pt-25">
                                 <div class="role-heading">
-                                    <h4 class="fw-bolder">Manager</h4>
+                                    <h4 class="fw-bolder">Platform Admin</h4>
                                     <a href="javascript:;" class="role-edit-modal" data-bs-toggle="modal" data-bs-target="#addRoleModal">
                                         <small class="fw-bolder">Edit Role</small>
                                     </a>
@@ -87,28 +87,28 @@
                     <div class="card">
                         <div class="card-body">
                             <div class="d-flex justify-content-between">
-                                <span>Total 5 users</span>
+                                <span>Total 50 users</span>
                                 <ul class="list-unstyled d-flex align-items-center avatar-group mb-0">
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Andrew Tye" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/6.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="lulu" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Rishi Swaat" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/9.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Amaka" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Rossie Kim" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/12.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Blessing" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kim Merchent" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/10.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Racheal" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Sam D'souza" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/8.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Vincent" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
                                 </ul>
                             </div>
                             <div class="d-flex justify-content-between align-items-end mt-1 pt-25">
                                 <div class="role-heading">
-                                    <h4 class="fw-bolder">Users</h4>
+                                    <h4 class="fw-bolder">Consultants</h4>
                                     <a href="javascript:;" class="role-edit-modal" data-bs-toggle="modal" data-bs-target="#addRoleModal">
                                         <small class="fw-bolder">Edit Role</small>
                                     </a>
@@ -124,26 +124,20 @@
                             <div class="d-flex justify-content-between">
                                 <span>Total 3 users</span>
                                 <ul class="list-unstyled d-flex align-items-center avatar-group mb-0">
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kim Karlos" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/3.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Joyce" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Katy Turner" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/9.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Obinna" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Peter Adward" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/12.png" alt="Avatar" />
-                                    </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kaith D'souza" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/10.png" alt="Avatar" />
-                                    </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="John Parker" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/11.png" alt="Avatar" />
-                                    </li>
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Bolaji" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
+
                                 </ul>
                             </div>
                             <div class="d-flex justify-content-between align-items-end mt-1 pt-25">
                                 <div class="role-heading">
-                                    <h4 class="fw-bolder">Support</h4>
+                                    <h4 class="fw-bolder">Team Leads</h4>
                                     <a href="javascript:;" class="role-edit-modal" data-bs-toggle="modal" data-bs-target="#addRoleModal">
                                         <small class="fw-bolder">Edit Role</small>
                                     </a>
@@ -159,21 +153,10 @@
                             <div class="d-flex justify-content-between">
                                 <span>Total 2 users</span>
                                 <ul class="list-unstyled d-flex align-items-center avatar-group mb-0">
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kim Merchent" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/10.png" alt="Avatar" />
+                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Kunle" class="avatar avatar-sm pull-up">
+                                        <img class="rounded-circle" src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" />
                                     </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Sam D'souza" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/6.png" alt="Avatar" />
-                                    </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Nurvi Karlos" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/3.png" alt="Avatar" />
-                                    </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Andrew Tye" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/8.png" alt="Avatar" />
-                                    </li>
-                                    <li data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" title="Rossie Kim" class="avatar avatar-sm pull-up">
-                                        <img class="rounded-circle" src="../../../app-assets/images/avatars/9.png" alt="Avatar" />
-                                    </li>
+
                                 </ul>
                             </div>
                             <div class="d-flex justify-content-between align-items-end mt-1 pt-25">
@@ -211,21 +194,21 @@
             <!--/ Role cards -->
 
             <h3 class="mt-50">Total users with their roles</h3>
-            <p class="mb-2">Find all of your company’s administrator accounts and their associate roles.</p>
+            <p class="mb-2">Find all accounts and their associate roles.</p>
             <!-- table -->
             <div class="card">
                 <div class="table-responsive">
                     <table class="user-list-table table">
                         <thead class="table-light">
                             <tr>
+                                <!-- <th></th> -->
                                 <th></th>
-                                <th></th>
-                                <th>Name</th>
-                                <th>Role</th>
-                                <th>Plan</th>
-                                <th>Billing</th>
+                                <th>Designation</th>
+                                <th>Platform Role</th>
+                                <th>Team</th>
                                 <th>Status</th>
                                 <th>Actions</th>
+                                <!-- <th>Actions</th> -->
                             </tr>
                         </thead>
                     </table>
@@ -327,7 +310,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr>
+                                                <!-- <tr>
                                                     <td class="text-nowrap fw-bolder">Database Management</td>
                                                     <td>
                                                         <div class="d-flex">
@@ -345,8 +328,8 @@
                                                             </div>
                                                         </div>
                                                     </td>
-                                                </tr>
-                                                <tr>
+                                                </tr> -->
+                                                <!-- <tr>
                                                     <td class="text-nowrap fw-bolder">Financial Management</td>
                                                     <td>
                                                         <div class="d-flex">
@@ -364,7 +347,7 @@
                                                             </div>
                                                         </div>
                                                     </td>
-                                                </tr>
+                                                </tr> -->
                                                 <tr>
                                                     <td class="text-nowrap fw-bolder">Reporting</td>
                                                     <td>
@@ -384,7 +367,7 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr>
+                                                <!-- <tr>
                                                     <td class="text-nowrap fw-bolder">API Control</td>
                                                     <td>
                                                         <div class="d-flex">
@@ -402,8 +385,8 @@
                                                             </div>
                                                         </div>
                                                     </td>
-                                                </tr>
-                                                <tr>
+                                                </tr> -->
+                                                <!-- <tr>
                                                     <td class="text-nowrap fw-bolder">Repository Management</td>
                                                     <td>
                                                         <div class="d-flex">
@@ -421,7 +404,7 @@
                                                             </div>
                                                         </div>
                                                     </td>
-                                                </tr>
+                                                </tr> -->
                                                 <tr>
                                                     <td class="text-nowrap fw-bolder">Payroll</td>
                                                     <td>

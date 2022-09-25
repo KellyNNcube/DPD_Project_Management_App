@@ -189,7 +189,7 @@ textarea.form-control-lg {
 
 .input-group:not(.bootstrap-touchspin):focus-within .form-control,
 .input-group:not(.bootstrap-touchspin):focus-within .input-group-text {
-  border-color: #7367f0;
+  border-color: #ff7a3d;
   box-shadow: none; }
 
 .input-group:not(.bootstrap-touchspin):focus-within .form-control.is-valid,
@@ -213,7 +213,7 @@ textarea.form-control-lg {
   border-color: #ea5455; }
 
 .input-group.disabled .input-group-text {
-  background-color: #efefef; }
+  background-color: #060606; }
 
 .input-group.round .form-control,
 .input-group.round .input-group-text, .input-group.round:focus-within {
@@ -358,8 +358,8 @@ textarea.form-control-lg {
 
 /* Textarea with Counter */
 .textarea-counter-value {
-  background-color: #7367f0;
-  color: #fff;
+  background-color: #ff7a3d;
+  color: rgb(36, 36, 36);
   padding: 1px 6px;
   font-size: 0.6rem;
   border-radius: 0 0 5px 5px;
@@ -389,7 +389,7 @@ input:-webkit-autofill,
 textarea:-webkit-autofill,
 select:-webkit-autofill {
   -webkit-box-shadow: 0 0 0 1000px #fff inset !important;
-  -webkit-text-fill-color: #6e6b7b !important; }
+  -webkit-text-fill-color: #ff7a3d !important; }
 
 .btn {
   box-shadow: none;
@@ -518,7 +518,7 @@ select:-webkit-autofill {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 16px;
-  color: #6e6b7b;
+  color: #ff7a3d;
   width: 14px;
   height: 11px;
   position: relative;
@@ -760,13 +760,13 @@ select:-webkit-autofill {
 .header-navbar .navbar-container ul.navbar-nav li.dropdown-cart .notification-text, .header-navbar .navbar-container ul.navbar-nav li.dropdown-notification .notification-text {
   margin-bottom: 0.5rem;
   font-size: smaller;
-  color: #b9b9c3; }
+  color: #ff844bf7; }
 
 .header-navbar .navbar-container ul.navbar-nav li.dropdown-cart .dropdown-menu-footer, .header-navbar .navbar-container ul.navbar-nav li.dropdown-notification .dropdown-menu-footer {
   padding: 1.28rem; }
 
 .header-navbar .navbar-container ul.navbar-nav li.dropdown-notification .list-item-body .media-heading {
-  color: #6e6b7b;
+  color: #ff7a3d;
   margin-bottom: 0;
   line-height: 1.2; }
 
