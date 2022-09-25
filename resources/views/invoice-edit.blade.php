@@ -41,10 +41,10 @@
                                                 <span class="title">Date:</span>
                                                 <input type="text" class="form-control invoice-edit-input date-picker" />
                                             </div>
-                                            <div class="d-flex align-items-center">
+                                            <!-- <div class="d-flex align-items-center">
                                                 <span class="title">Due Date:</span>
                                                 <input type="text" class="form-control invoice-edit-input due-date-picker" />
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -69,7 +69,7 @@
                                                 <tbody>
                                                     <tr>
                                                         <td class="pe-1">Total Due:</td>
-                                                        <td><strong>$12,110.55</strong></td>
+                                                        <td><strong>₦12,110.55</strong></td>
                                                     </tr>
                                                     <tr>
                                                         <td class="pe-1">Bank name:</td>
@@ -128,7 +128,7 @@
                                                             </div>
                                                             <div class="col-lg-2 col-12 mt-lg-0 mt-2">
                                                                 <p class="card-text col-title mb-md-50 mb-0">Price</p>
-                                                                <p class="card-text mb-0">$24.00</p>
+                                                                <p class="card-text mb-0">₦24.00</p>
                                                             </div>
                                                         </div>
                                                         <div class="d-flex flex-column align-items-center justify-content-between border-start invoice-product-actions py-50 px-25">
@@ -200,11 +200,11 @@
                                             <div class="invoice-total-wrapper">
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Subtotal:</p>
-                                                    <p class="invoice-total-amount">$1800</p>
+                                                    <p class="invoice-total-amount">₦1800</p>
                                                 </div>
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Discount:</p>
-                                                    <p class="invoice-total-amount">$28</p>
+                                                    <p class="invoice-total-amount">₦28</p>
                                                 </div>
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Tax:</p>
@@ -213,7 +213,7 @@
                                                 <hr class="my-50" />
                                                 <div class="invoice-total-item">
                                                     <p class="invoice-total-title">Total:</p>
-                                                    <p class="invoice-total-amount">$1690</p>
+                                                    <p class="invoice-total-amount">₦1690</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -320,7 +320,7 @@ Dear Queen Consolidated,
 
 Thank you for your business, always a pleasure to work with you!
 
-We have generated a new invoice in the amount of $95.59
+We have generated a new invoice in the amount of ₦95.59
 
 We would appreciate payment of this invoice by 05/11/2019</textarea>
                                         </div>
@@ -358,7 +358,7 @@ We would appreciate payment of this invoice by 05/11/2019</textarea>
                                         </div>
                                         <div class="mb-1">
                                             <label class="form-label" for="amount">Payment Amount</label>
-                                            <input id="amount" class="form-control" type="number" placeholder="$1000" />
+                                            <input id="amount" class="form-control" type="number" placeholder="₦1000" />
                                         </div>
                                         <div class="mb-1">
                                             <label class="form-label" for="payment-date">Payment Date</label>
