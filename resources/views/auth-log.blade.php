@@ -58,8 +58,8 @@
                         </a>
                         <!-- /Brand logo-->
                         <!-- Left Text-->
-                        <div class="d-none d-lg-flex col-lg-8 align-items-right p-100">
-                            <div class="w-200 d-lg-flex align-items-center justify-content-center px-10"><img class="img-fluid" src="../../../app-assets/images/pages/login/smile.jpg" alt="Login V2" /></div>
+                        <div class="d-none1 d-lg-flex col-lg-8 align-items-right p-100">
+                            <div class="w-200 d-lg-flex align-items-center justify-content-center px-10"><img class="img-fluid" /></div>
                         </div>
                         <!-- /Left Text-->
                         <!-- Login-->

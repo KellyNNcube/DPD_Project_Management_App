@@ -5681,7 +5681,24 @@ fieldset:disabled .btn {
   display: inline-flex !important; }
 
 .d-none {
-  display: none !important; }
+  display: none !important;
+  /* background-image: url("../../../app-assets/images/pages/login/reg.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;} */ }
+
+  .d-none1 {
+    display: none !important;
+    background-image: url("../../../app-assets/images/pages/login/smile.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+    .d-none2 {
+      display: none !important;
+      background-image: url("../../../app-assets/images/pages/login/reg.jpg"); 
+      background-repeat: no-repeat;
+      background-size: cover;}
+
+
 
 .shadow {
   box-shadow: 0 4px 24px 0 rgba(34, 41, 47, 0.1) !important; }

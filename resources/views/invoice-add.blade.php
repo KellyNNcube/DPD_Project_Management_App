@@ -198,7 +198,7 @@
                                     <div class="row invoice-sales-total-wrapper">
                                         <div class="col-md-6 order-md-1 order-2 mt-md-0 mt-3">
                                             <div class="d-flex align-items-center mb-1">
-                                                <label for="salesperson" class="form-label">Salesperson:</label>
+                                                <label for="salesperson" class="form-label">Consultant:</label>
                                                 <input type="text" class="form-control ms-50" id="salesperson" placeholder="Edward Combotcha" />
                                             </div>
                                         </div>
@@ -255,7 +255,7 @@ It was a pleasure working with you and your team. We hope you will keep us in mi
                                     <button type="button" class="btn btn-outline-primary w-100">Save</button>
                                 </div>
                             </div>
-                            <div class="mt-2">
+                            <!-- <div class="mt-2">
                                 <p class="mb-50">Accept payments via</p>
                                 <select class="form-select">
                                     <option value="Bank Account">Bank Account</option>
@@ -285,7 +285,7 @@ It was a pleasure working with you and your team. We hope you will keep us in mi
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <!-- Invoice Add Right ends -->
                     </div>
