@@ -37,6 +37,40 @@
                 </div>
 
                 <div class="row match-height">
+                    <!-- Profile Card -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="card card-profile">
+                            <img src="../../../app-assets/images/banner/banner-12.jpg" class="img-fluid card-img-top" alt="Profile Cover Photo" />
+                            <div class="card-body">
+                                <div class="profile-image-wrapper">
+                                    <div class="profile-image">
+                                        <div class="avatar">
+                                            <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Profile Picture" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <h3>Chukwuemeka Nonso</h3>
+                                <h6 class="text-muted">Nigeria</h6>
+                                <span class="badge badge-light-primary profile-badge">Awaiting</span>
+                                <hr class="mb-2" />
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- <div>
+                                        <h6 class="text-muted fw-bolder">Followers</h6>
+                                        <h3 class="mb-0">10.3k</h3>
+                                    </div> -->
+                                    <div>
+                                        <h6 class="text-muted fw-bolder">Projects</h6>
+                                        <h3 class="mb-0">156</h3>
+                                    </div>
+                                    <div>
+                                        <h6 class="text-muted fw-bolder">Rank</h6>
+                                        <h3 class="mb-0">23</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/ Profile Card -->
                     <!-- Employee Task Card -->
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card card-employee-task">
@@ -202,6 +236,8 @@
                     </div>
                     <!--/ Developer Meetup Card -->
 
+                </div>
+                <div class="row match-height">
                     <!-- Apply Job Card -->
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card card-apply-job">
@@ -238,8 +274,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="row match-height">
+                    <!-- Apply Job Card -->
                     <!-- Project Alert Card -->
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card card-app-design">
@@ -296,97 +331,8 @@
                         </div>
                     </div>
                     <!--/ Project Alert Card -->
-
-                    <!-- Project Timeline Card -->
-                    <div class="col-lg-8 col-12">
-                        <div class="card card-user-timeline">
-                            <div class="card-header">
-                                <div class="d-flex align-items-center">
-                                    <i data-feather="list" class="user-timeline-title-icon"></i>
-                                    <h4 class="card-title">Project Timeline</h4>
-                                </div>
-                                <i data-feather="more-vertical" class="font-medium-3 cursor-pointer"></i>
-                            </div>
-                            <div class="card-body">
-                                <ul class="timeline ms-50">
-                                    <li class="timeline-item">
-                                        <span class="timeline-point timeline-point-indicator"></span>
-                                        <div class="timeline-event">
-                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
-                                                <h6>Approved</h6>
-                                                <span class="timeline-event-time me-1">5 days ago</span>
-                                            </div>
-                                            <p>Project has been approved.</p>
-                                            <!-- <div class="d-flex flex-row align-items-center">
-                                                <img class="me-1" src="{{ ENV('APP_URL') }}/app-assets/images/icons/json.png" alt="data.json" height="23" />
-                                                <h6 class="mb-0">data.json</h6>
-                                            </div> -->
-                                        </div>
-                                    </li>
-                                    <li class="timeline-item">
-                                        <span class="timeline-point timeline-point-warning timeline-point-indicator"></span>
-                                        <div class="timeline-event">
-                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
-                                                <h6>Initialized</h6>
-                                                <span class="timeline-event-time me-1">2 days ago</span>
-                                            </div>
-                                            <p>Project has commenced.</p>
-                                            <!-- <div class="d-flex flex-row align-items-center">
-                                                <div class="avatar me-50">
-                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="38" height="38" />
-                                                </div>
-                                                <div class="user-info">
-                                                    <h6 class="mb-0">John Doe (Client)</h6>
-                                                    <p class="mb-0">CEO of Infibeam</p>
-                                                </div>
-                                            </div> -->
-                                        </div>
-                                    </li>
-                                    <li class="timeline-item">
-                                        <span class="timeline-point timeline-point-info timeline-point-indicator"></span>
-                                        <div class="timeline-event">
-                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
-                                                <h6>Ongoing</h6>
-                                                <span class="timeline-event-time me-1">45 min ago</span>
-                                            </div>
-                                            <p>Project is ongoing.</p>
-                                            <!-- <div class="avatar-group">
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Billy Hopkins" class="avatar pull-up">
-                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
-                                                </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Amy Carson" class="avatar pull-up">
-                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
-                                                </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Brandon Miles" class="avatar pull-up">
-                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
-                                                </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Daisy Weber" class="avatar pull-up">
-                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
-                                                </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Jenny Looper" class="avatar pull-up">
-                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
-                                                </div>
-                                            </div> -->
-                                        </div>
-                                    </li>
-                                    <li class="timeline-item">
-                                        <span class="timeline-point timeline-point-danger timeline-point-indicator"></span>
-                                        <div class="timeline-event">
-                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
-                                                <h6>Completed</h6>
-                                                <span class="timeline-event-time me-1">2 min ago</span>
-                                            </div>
-                                            <p class="mb-0">Project has been completed.</p>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!--/ Project Timeline Card -->
-
-                    <!-- Chat Card -->
-                    <div class="col-lg-4 col-md-6 col-12">
+                     <!-- Chat Card -->
+                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card chat-widget">
                             <div class="card-header">
                                 <div class="d-flex align-items-center">
@@ -527,6 +473,93 @@
                         </div>
                     </div>
                     <!--/ Chat Card -->
+                    <!-- Project Timeline Card -->
+                    <div class="col-lg-8 col-12">
+                        <div class="card card-user-timeline">
+                            <div class="card-header">
+                                <div class="d-flex align-items-center">
+                                    <i data-feather="list" class="user-timeline-title-icon"></i>
+                                    <h4 class="card-title">Project Timeline</h4>
+                                </div>
+                                <i data-feather="more-vertical" class="font-medium-3 cursor-pointer"></i>
+                            </div>
+                            <div class="card-body">
+                                <ul class="timeline ms-50">
+                                    <li class="timeline-item">
+                                        <span class="timeline-point timeline-point-indicator"></span>
+                                        <div class="timeline-event">
+                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
+                                                <h6>Approved</h6>
+                                                <span class="timeline-event-time me-1">5 days ago</span>
+                                            </div>
+                                            <p>Project has been approved.</p>
+                                            <!-- <div class="d-flex flex-row align-items-center">
+                                                <img class="me-1" src="{{ ENV('APP_URL') }}/app-assets/images/icons/json.png" alt="data.json" height="23" />
+                                                <h6 class="mb-0">data.json</h6>
+                                            </div> -->
+                                        </div>
+                                    </li>
+                                    <li class="timeline-item">
+                                        <span class="timeline-point timeline-point-warning timeline-point-indicator"></span>
+                                        <div class="timeline-event">
+                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
+                                                <h6>Initialized</h6>
+                                                <span class="timeline-event-time me-1">2 days ago</span>
+                                            </div>
+                                            <p>Project has commenced.</p>
+                                            <!-- <div class="d-flex flex-row align-items-center">
+                                                <div class="avatar me-50">
+                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="38" height="38" />
+                                                </div>
+                                                <div class="user-info">
+                                                    <h6 class="mb-0">John Doe (Client)</h6>
+                                                    <p class="mb-0">CEO of Infibeam</p>
+                                                </div>
+                                            </div> -->
+                                        </div>
+                                    </li>
+                                    <li class="timeline-item">
+                                        <span class="timeline-point timeline-point-info timeline-point-indicator"></span>
+                                        <div class="timeline-event">
+                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
+                                                <h6>Ongoing</h6>
+                                                <span class="timeline-event-time me-1">45 min ago</span>
+                                            </div>
+                                            <p>Project is ongoing.</p>
+                                            <!-- <div class="avatar-group">
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Billy Hopkins" class="avatar pull-up">
+                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
+                                                </div>
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Amy Carson" class="avatar pull-up">
+                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
+                                                </div>
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Brandon Miles" class="avatar pull-up">
+                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
+                                                </div>
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Daisy Weber" class="avatar pull-up">
+                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
+                                                </div>
+                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="bottom" title="Jenny Looper" class="avatar pull-up">
+                                                    <img src="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar.jpg" alt="Avatar" width="33" height="33" />
+                                                </div>
+                                            </div> -->
+                                        </div>
+                                    </li>
+                                    <li class="timeline-item">
+                                        <span class="timeline-point timeline-point-danger timeline-point-indicator"></span>
+                                        <div class="timeline-event">
+                                            <div class="d-flex justify-content-between flex-sm-row flex-column mb-sm-0 mb-1">
+                                                <h6>Completed</h6>
+                                                <span class="timeline-event-time me-1">2 min ago</span>
+                                            </div>
+                                            <p class="mb-0">Project has been completed.</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--/ Project Timeline Card -->
 
                 <!--/ Card Advance -->
 

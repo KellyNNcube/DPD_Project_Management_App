@@ -66,12 +66,12 @@
                                                     <label class="form-label" for="label">Label</label>
                                                     <select class="select2 select2-label form-select" id="label">
                                                         <option value="">&nbsp;</option>
-                                                        <option data-color="badge-light-success" value="UX">UX</option>
-                                                        <option data-color="badge-light-warning" value="Images">Images</option>
-                                                        <option data-color="badge-light-info" value="App">App</option>
-                                                        <option data-color="badge-light-danger" value="Code Review">Code Review</option>
-                                                        <option data-color="badge-light-success" value="Forms">Forms</option>
-                                                        <option data-color="badge-light-primary" value="Charts & Maps">Charts & Maps</option>
+                                                        <option data-color="badge-light-success" value="Economic Dev">Economic Dev</option>
+                                                        <option data-color="badge-light-warning" value="Health edu">Health edu</option>
+                                                        <option data-color="badge-light-info" value="Food security">Food Security</option>
+                                                        <option data-color="badge-light-danger" value="Supply Chain">Supply Chain</option>
+                                                        <option data-color="badge-light-success" value="Agri">Agri</option>
+                                                        <option data-color="badge-light-primary" value="Water & sanitation">Water & Sanitation</option>
                                                     </select>
                                                 </div>
                                                 <div class="mb-1">
@@ -172,7 +172,7 @@
                                                 </div>
                                                 <div class="more-info">
                                                     <p class="mb-0">
-                                                        <span class="fw-bold">Ray</span> Added moved <span class="fw-bold">Forms & Tables</span> task from
+                                                        <span class="fw-bold">Ray</span> Added moved <span class="fw-bold">Research</span> task from
                                                         in progress to done.
                                                     </p>
                                                     <small class="text-muted">Today 7:45 AM</small>
@@ -247,4 +247,5 @@
     <div class="drag-target"></div>
 
 
-@include('layouts.footer')
+
+    @include('layouts.footer')

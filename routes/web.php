@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/dashboard', function () {
-    return view('try');
+    return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
 Route::get('/app-chat', function () {
@@ -69,9 +69,9 @@ Route::get('/email', function () {
     return view('email');
 });
 
-Route::get('/try', function () {
-    return view('try');
-});
+// Route::get('/try', function () {
+//     return view('try');
+// });
 
 
 Route::get('/app-access-roles', function () {
