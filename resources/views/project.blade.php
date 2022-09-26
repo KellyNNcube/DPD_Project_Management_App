@@ -90,6 +90,10 @@
                                 <a href="#" class="list-group-item list-group-item-action">
                                     <i data-feather="check" class="font-medium-3 me-50"></i> <span class="align-middle">Completed</span>
                                 </a>
+                                </a>
+                                <a href="#" class="list-group-item list-group-item-action">
+                                    <i data-feather="alert-circle" class="font-medium-3 me-50"></i> <span class="align-middle">Terminated</span>
+                                </a>
                                 <!-- <a href="#" class="list-group-item list-group-item-action">
                                     <i data-feather="trash" class="font-medium-3 me-50"></i> <span class="align-middle">Deleted</span>
                                 </a> -->
@@ -581,48 +585,7 @@
                                             </div>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>
-                                            <!-- <img src="../../../app-assets/images/icons/react.svg" class="me-75" height="20" width="20" alt="React" /> -->
-                                            <span class="fw-bold">Mobile Hospitals</span>
-                                        </td>
-                                        <td>ROCHE Foundation</td>
-                                        <td>
-                                            <div class="avatar-group">
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Numa">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
-                                                </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="Ola">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
-                                                </div>
-                                                <div data-bs-toggle="tooltip" data-popup="tooltip-custom" data-bs-placement="top" class="avatar pull-up my-0" title="John">
-                                                    <img src="../../../app-assets/images/portrait/small/avatar.jpg" alt="Avatar" height="26" width="26" />
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td><span class="badge rounded-pill badge-light-success me-1">Completed</span></td>
-                                        <td>
-                                            Health
-                                        </td>
-                                        <td>
-
-                                            <div class="dropdown">
-                                                <button type="button" class="btn btn-sm dropdown-toggle hide-arrow py-0" data-bs-toggle="dropdown">
-                                                    <i data-feather="more-vertical"></i>
-                                                </button>
-                                                <div class="dropdown-menu dropdown-menu-end">
-                                                    <a class="dropdown-item" href="#">
-                                                        <i data-feather="edit-2" class="me-50"></i>
-                                                        <span>Edit</span>
-                                                    </a>
-                                                    <a class="dropdown-item" href="#">
-                                                        <i data-feather="trash" class="me-50"></i>
-                                                        <span>Delete</span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </td>
-                                    </tr>
+                                  
                                     <!-- <tr>
                                         <td>
                                             <img src="../../../app-assets/images/icons/vuejs.svg" class="me-75" height="20" width="20" alt="Vuejs" />
