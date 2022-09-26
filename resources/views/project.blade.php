@@ -1080,7 +1080,7 @@
                                             </select>
                                         </div>
                                         <div class="mb-1 position-relative">
-                                            <label for="task-assigned" class="form-label d-block">Team Memebers</label>
+                                            <label for="task-assigned" class="form-label d-block">Team Members</label>
                                             <select class="select2 form-select" id="task-assigned" name="task-assigned" multiple="multiple">
                                                 <option data-img="{{ ENV('APP_URL') }}/app-assets/images/portrait/small/avatar-s-3.jpg" value="Phill Buffer" selected>
                                                     Halima
